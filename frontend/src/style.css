@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  background-color: #e6e6f091;
+  -webkit-print-color-adjust: exact !important;
+  print-color-adjust: exact !important;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+code {
+  color: red;
+}
+
+.title-style {
+  color: #555567;
+  font-size: 1.25rem;
+  align-self: center;
+}
+
+.subtile-style {
+  color: #555567;
+  font-size: 1rem;
+}
+
+.q-dialog__title {
+  color: #555567;
+  font-size: 1.25rem;
+  align-self: center;
+}
+
+.wt-border {
+  border-radius: 8px !important;
+}
+
+.q-table__top {
+  padding: 0px;
+}
+
+.q-stepper__content {
+  display: none;
+}
+
+.q-field--outlined .q-field__control {
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  background: #ffffff;
+  border-radius: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background-color: #ffffff;
+}
+::-webkit-scrollbar-thumb {
+  background: #d1d3d7;
+  border-radius: 8px;
+}
+
+.smaller-input .q-field__native {
+  font-size: 10px; /* Adjust to desired size */
+  height: 10px; /* Adjust to desired height */
+  align-self: center;
+}

@@ -1,0 +1,5202 @@
+{
+  "PR": {
+    "PR": {
+      "Cartier": {
+        "PR17667": {
+          "items": [
+            {
+              "codigo_produto": "4010777",
+              "descricao": "Junta do Fundo MX0078F7",
+              "preco": 13.8,
+              "quantidade": 1,
+              "referencia": "MX0078F7",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4128133",
+              "descricao": "Junta da Coroa MXE0HPW8 (antiga 17500918)",
+              "preco": 16.83,
+              "quantidade": 1,
+              "referencia": "MXE0HPW8",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Officine Panerai": {
+        "PR17042": {
+          "items": [
+            {
+              "codigo_produto": "4064080",
+              "descricao": "JUNTA DE PLASTICO PARA RELOGIO PAN",
+              "preco": 4.54,
+              "quantidade": 1,
+              "referencia": "MX002Q5D",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4064659",
+              "descricao": "Junta do Tubo MX004FDM",
+              "preco": 4.54,
+              "quantidade": 1,
+              "referencia": "MX004FDM",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "TAG Heuer": {
+        "PR17361": {
+          "items": []
+        },
+        "PR17910": {
+          "items": [
+            {
+              "codigo_produto": "1007765",
+              "descricao": "Junta da Coroa HC2000",
+              "preco": 21.38,
+              "quantidade": 1,
+              "referencia": "HC2000",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      }
+    },
+    "RJ": {
+      "Cartier": {
+        "RJ16992": {
+          "items": [
+            {
+              "codigo_produto": "4001161",
+              "descricao": "Junta da Luneta 30901083",
+              "preco": 13.802,
+              "quantidade": 1,
+              "referencia": "30901083",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4000201",
+              "descricao": "Junta da Coroa 00830920",
+              "preco": 13.802,
+              "quantidade": 1,
+              "referencia": "00830920",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Hublot": {
+        "RJ17502": {
+          "items": []
+        }
+      },
+      "Mido": {
+        "RJ16917": {
+          "items": [
+            {
+              "codigo_produto": "5029035",
+              "descricao": "Vidro Plastico c/ Anel de Aço M3151613",
+              "preco": 264.76,
+              "quantidade": 1,
+              "referencia": "M315016130",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Omega": {
+        "RJ11423": {
+          "items": []
+        },
+        "RJ17485": {
+          "items": [
+            {
+              "codigo_produto": "2039455",
+              "descricao": "Coroa de Aço 069ST42137",
+              "preco": 122.53,
+              "quantidade": 1,
+              "referencia": "069ST42137",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17768": {
+          "items": [
+            {
+              "codigo_produto": "2009097",
+              "descricao": "Circuito Eletrônico 72213789600",
+              "preco": 432,
+              "quantidade": 1,
+              "referencia": "72213789600",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "TAG Heuer": {
+        "RJ17330": {
+          "items": [
+            {
+              "codigo_produto": "1013021",
+              "descricao": "Mola clique da Luneta HL2121",
+              "preco": 18.92,
+              "quantidade": 1,
+              "referencia": "HL2121",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17573": {
+          "items": []
+        },
+        "RJ17605": {
+          "items": [
+            {
+              "codigo_produto": "1007765",
+              "descricao": "Junta da Coroa HC2000",
+              "preco": 21.38,
+              "quantidade": 1,
+              "referencia": "HC2000",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1016548",
+              "descricao": "Roda Inversora MMB00336",
+              "preco": 98.38,
+              "quantidade": 1,
+              "referencia": "MMB00336",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17629": {
+          "items": [
+            {
+              "codigo_produto": "1011085",
+              "descricao": "Junta do Fundo HF1046",
+              "preco": 24.67667,
+              "quantidade": 1,
+              "referencia": "HF1046",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17748": {
+          "items": [
+            {
+              "codigo_produto": "1007765",
+              "descricao": "Junta da Coroa HC2000",
+              "preco": 21.38,
+              "quantidade": 1,
+              "referencia": "HC2000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ18044": {
+          "items": [
+            {
+              "codigo_produto": "1007765",
+              "descricao": "Junta da Coroa HC2000",
+              "preco": 21.38,
+              "quantidade": 1,
+              "referencia": "HC2000",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Tissot": {
+        "RJ17734": {
+          "items": []
+        }
+      }
+    },
+    "SP": {
+      "Baume & Mercier": {
+        "SP14839": {
+          "items": [
+            {
+              "codigo_produto": "4042383",
+              "descricao": "Máquina Quartz - MXE0DPR1 (antigo MX004XZ5)",
+              "preco": 980.49,
+              "quantidade": 1,
+              "referencia": "MXE0DPR1",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4043017",
+              "descricao": "Junta do Vidro MX006T5F",
+              "preco": 10.8,
+              "quantidade": 1,
+              "referencia": "MX006T5F",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4043019",
+              "descricao": "Junta do Fundo MX006T5H",
+              "preco": 10.8,
+              "quantidade": 1,
+              "referencia": "MX006T5H",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4043018",
+              "descricao": "Junta da Luneta MX006T5G",
+              "preco": 10.8,
+              "quantidade": 1,
+              "referencia": "MX006T5G",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4043140",
+              "descricao": "Junta da Coroa MX006W42",
+              "preco": 10.8,
+              "quantidade": 1,
+              "referencia": "MX006W42",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15045": {
+          "items": [
+            {
+              "codigo_produto": "4043018",
+              "descricao": "Junta da Luneta MX006T5G",
+              "preco": 10.8,
+              "quantidade": 1,
+              "referencia": "MX006T5G",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4043140",
+              "descricao": "Junta da Coroa MX006W42",
+              "preco": 10.8,
+              "quantidade": 1,
+              "referencia": "MX006W42",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17645": {
+          "items": [
+            {
+              "codigo_produto": "4036539",
+              "descricao": "Máquina Quartz MV715006",
+              "preco": 980.49,
+              "quantidade": 1,
+              "referencia": "MV715006",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4036263",
+              "descricao": "Junta do Vidro MV685061",
+              "preco": 13.17,
+              "quantidade": 1,
+              "referencia": "MV685061",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4036264",
+              "descricao": "Junta do Fundo MV685062",
+              "preco": 13.17,
+              "quantidade": 1,
+              "referencia": "MV685062",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4036282",
+              "descricao": "Junta da Coroa MV685080",
+              "preco": 19.6,
+              "quantidade": 1,
+              "referencia": "MV685080",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Mont Blanc": {
+        "SP17063": {
+          "items": [
+            {
+              "codigo_produto": "4111484",
+              "descricao": "Junta do Vidro MX001JTL",
+              "preco": 20.40222,
+              "quantidade": 1,
+              "referencia": "MX001JTL",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Officine Panerai": {
+        "SP15400": {
+          "items": [
+            {
+              "codigo_produto": "4063847",
+              "descricao": "Junta do Fundo MX001CNG",
+              "preco": 11.4,
+              "quantidade": 1,
+              "referencia": "MX001CNG",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4065952",
+              "descricao": "Junta da Luneta MX007QJZ",
+              "preco": 11.4,
+              "quantidade": 1,
+              "referencia": "MX007QJZ",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Omega": {
+        "SP15833": {
+          "items": [
+            {
+              "codigo_produto": "2044678",
+              "descricao": "Junta do pulsador",
+              "preco": 30,
+              "quantidade": 1,
+              "referencia": "088NS2003",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16538": {
+          "items": []
+        },
+        "SP16685": {
+          "items": [
+            {
+              "codigo_produto": "2021661",
+              "descricao": "Vidro Acrílico 063PW5139",
+              "preco": 528,
+              "quantidade": 1,
+              "referencia": "063PW5139",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2036102",
+              "descricao": "Ponteiro de segundos chrono",
+              "preco": 86.605,
+              "quantidade": 1,
+              "referencia": "066PP3916",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16826": {
+          "items": []
+        },
+        "SP17257": {
+          "items": [
+            {
+              "codigo_produto": "2039609",
+              "descricao": "Coroa de Aço 069ST43294",
+              "preco": 214.16,
+              "quantidade": 1,
+              "referencia": "069ST43294",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "TAG Heuer": {
+        "SP14963": {
+          "items": [
+            {
+              "codigo_produto": "1007586",
+              "descricao": "Tubo da Coroa HC1062",
+              "preco": 29,
+              "quantidade": 1,
+              "referencia": "HC1062",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011474",
+              "descricao": "Junta do Vidro HG1013",
+              "preco": 25.395,
+              "quantidade": 1,
+              "referencia": "HG1013",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15047": {
+          "items": []
+        },
+        "SP15384": {
+          "items": []
+        },
+        "SP15587": {
+          "items": []
+        },
+        "SP15611": {
+          "items": [
+            {
+              "codigo_produto": "1015704",
+              "descricao": "Circuito Eletrônico ME0000",
+              "preco": 88.98,
+              "quantidade": 1,
+              "referencia": "ME0000",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007586",
+              "descricao": "Tubo da Coroa HC1062",
+              "preco": 29,
+              "quantidade": 1,
+              "referencia": "HC1062",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15899": {
+          "items": []
+        },
+        "SP16253": {
+          "items": []
+        },
+        "SP16526": {
+          "items": [
+            {
+              "codigo_produto": "1007369",
+              "descricao": "Coroa folheada",
+              "preco": 410.39,
+              "quantidade": 1,
+              "referencia": "HC0193",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16717": {
+          "items": []
+        },
+        "SP16782": {
+          "items": [
+            {
+              "codigo_produto": "1003273",
+              "descricao": "Bucha da Pulseira FM5028",
+              "preco": 23.964,
+              "quantidade": 1,
+              "referencia": "FM5028",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16909": {
+          "items": [
+            {
+              "codigo_produto": "1011484",
+              "descricao": "Junta do Vidro HG1031",
+              "preco": 29.68,
+              "quantidade": 1,
+              "referencia": "HG1031",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007765",
+              "descricao": "Junta da Coroa HC2000",
+              "preco": 21.38,
+              "quantidade": 1,
+              "referencia": "HC2000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17106": {
+          "items": [
+            {
+              "codigo_produto": "1000174",
+              "descricao": "Pulseira de Aço BA0796 - Carrera",
+              "preco": 1313.82,
+              "quantidade": 1,
+              "referencia": "BA0796",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17206": {
+          "items": []
+        },
+        "SP17219": {
+          "items": [
+            {
+              "codigo_produto": "1016517",
+              "descricao": "Roda Inversora Auxiliar MMB00152",
+              "preco": 81.95,
+              "quantidade": 1,
+              "referencia": "MMB00152",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17620": {
+          "items": [
+            {
+              "codigo_produto": "1007337",
+              "descricao": "Coroa de Aço HC0148",
+              "preco": 228,
+              "quantidade": 1,
+              "referencia": "HC0148",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17759": {
+          "items": [
+            {
+              "codigo_produto": "1011123",
+              "descricao": "Junta do Fundo HF1097",
+              "preco": 19.955,
+              "quantidade": 1,
+              "referencia": "HF1097",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17763": {
+          "items": [
+            {
+              "codigo_produto": "1011593",
+              "descricao": "Junta do Vidro HG1160",
+              "preco": 25.42,
+              "quantidade": 1,
+              "referencia": "HG1160",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011117",
+              "descricao": "Junta do Fundo HF1090",
+              "preco": 25.21714,
+              "quantidade": 1,
+              "referencia": "HF1090",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007770",
+              "descricao": "Junta da Coroa HC2006",
+              "preco": 20.97556,
+              "quantidade": 1,
+              "referencia": "HC2006",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1016513",
+              "descricao": "Kit de Rodas MMB00148",
+              "preco": 63.775,
+              "quantidade": 1,
+              "referencia": "MMB00148",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17803": {
+          "items": [
+            {
+              "codigo_produto": "1015704",
+              "descricao": "Circuito Eletrônico ME0000",
+              "preco": 88.98,
+              "quantidade": 1,
+              "referencia": "ME0000",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17804": {
+          "items": [
+            {
+              "codigo_produto": "1011474",
+              "descricao": "Junta do Vidro HG1013",
+              "preco": 25.395,
+              "quantidade": 1,
+              "referencia": "HG1013",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007765",
+              "descricao": "Junta da Coroa HC2000",
+              "preco": 21.38,
+              "quantidade": 1,
+              "referencia": "HC2000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17834": {
+          "items": [
+            {
+              "codigo_produto": "1015704",
+              "descricao": "Circuito Eletrônico ME0000",
+              "preco": 88.98,
+              "quantidade": 1,
+              "referencia": "ME0000",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17976": {
+          "items": [
+            {
+              "codigo_produto": "1007239",
+              "descricao": "Coroa de Aço HC0020",
+              "preco": 189.88,
+              "quantidade": 1,
+              "referencia": "HC0020",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP18046": {
+          "items": [
+            {
+              "codigo_produto": "1007765",
+              "descricao": "Junta da Coroa HC2000",
+              "preco": 21.38,
+              "quantidade": 1,
+              "referencia": "HC2000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP18076": {
+          "items": []
+        }
+      },
+      "Tissot": {
+        "SP17062": {
+          "items": []
+        },
+        "SP17371": {
+          "items": [
+            {
+              "codigo_produto": "5022747",
+              "descricao": "Terminal de Aço PRS/PRC 200 - T660016224",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "T660016224",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "RJ": {
+    "PR": {
+      "Baume & Mercier": {
+        "PR9172": {
+          "items": [
+            {
+              "codigo_produto": "4038845",
+              "descricao": "STRAP CAIM BLK MACH ARDI",
+              "preco": 1150,
+              "quantidade": 1,
+              "referencia": "MVG15057",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Breitling": {
+        "PR18014": {
+          "items": [
+            {
+              "codigo_produto": "3016263",
+              "descricao": "Puls. de borracha preta (refil P/  fecho deployant ) 155S",
+              "preco": 169.59667,
+              "quantidade": 1,
+              "referencia": "155S",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Cartier": {
+        "PR17667": {
+          "items": []
+        }
+      },
+      "Officine Panerai": {
+        "PR17042": {
+          "items": [
+            {
+              "codigo_produto": "4064913",
+              "descricao": "Junta da Coroa MX0051VD",
+              "preco": 4.54,
+              "quantidade": 1,
+              "referencia": "MX0051VD",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4065733",
+              "descricao": "Junta do Vidro MX0075RL",
+              "preco": 11.4,
+              "quantidade": 1,
+              "referencia": "MX0075RL",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Rado": {
+        "PR13536": {
+          "items": [
+            {
+              "codigo_produto": "5185719",
+              "descricao": "Pulseira de  couro preta 18/16",
+              "preco": 355.81,
+              "quantidade": 1,
+              "referencia": "07.08714.10",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "TAG Heuer": {
+        "PR17361": {
+          "items": [
+            {
+              "codigo_produto": "1007767",
+              "descricao": "Junta da Coroa HC2003",
+              "preco": 24.33875,
+              "quantidade": 1,
+              "referencia": "HC2003",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011073",
+              "descricao": "Junta do Fundo HF1033",
+              "preco": 24.41,
+              "quantidade": 1,
+              "referencia": "HF1033",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "PR17640": {
+          "items": [
+            {
+              "codigo_produto": "1011622",
+              "descricao": "Junta do Vidro HG1194",
+              "preco": 19.96,
+              "quantidade": 1,
+              "referencia": "HG1194",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011120",
+              "descricao": "Junta do Fundo HF1093",
+              "preco": 19.96,
+              "quantidade": 1,
+              "referencia": "HF1093",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR17910": {
+          "items": [
+            {
+              "codigo_produto": "1011622",
+              "descricao": "Junta do Vidro HG1194",
+              "preco": 19.96,
+              "quantidade": 1,
+              "referencia": "HG1194",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Tissot": {
+        "PR17866": {
+          "items": [
+            {
+              "codigo_produto": "5017306",
+              "descricao": "Jogo de ponteiros",
+              "preco": 168,
+              "quantidade": 1,
+              "referencia": "T500028603",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5035778",
+              "descricao": "Âncora T245039259",
+              "preco": 27.33,
+              "quantidade": 1,
+              "referencia": "T245039259",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5035151",
+              "descricao": "Roda de Escape T230038921",
+              "preco": 45.94,
+              "quantidade": 1,
+              "referencia": "T230038921",
+              "separacao": "completa"
+            }
+          ]
+        }
+      }
+    },
+    "RJ": {
+      "Breitling": {
+        "RJ14199": {
+          "items": [
+            {
+              "codigo_produto": "3016462",
+              "descricao": "Puls Couro Croco Preta 22/20mm (refil p/ FI) - 743P",
+              "preco": 923.7,
+              "quantidade": 1,
+              "referencia": "743P",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16201": {
+          "items": [
+            {
+              "codigo_produto": "3016408",
+              "descricao": "Pulseira Couro Crocodilo Preta (Refil)",
+              "preco": 923.7,
+              "quantidade": 1,
+              "referencia": "1026P",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Cartier": {
+        "RJ16992": {
+          "items": []
+        },
+        "RJ17363": {
+          "items": [
+            {
+              "codigo_produto": "4017889",
+              "descricao": "Junta do Vidro VA140003",
+              "preco": 13.8,
+              "quantidade": 1,
+              "referencia": "VA140003",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4006743",
+              "descricao": "Junta da Coroa MX004LB1",
+              "preco": 25.03,
+              "quantidade": 1,
+              "referencia": "MX004LB1",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4006332",
+              "descricao": "Junta do Fundo MX003T6Q",
+              "preco": 13.802,
+              "quantidade": 1,
+              "referencia": "MX003T6Q",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Hublot": {
+        "RJ17502": {
+          "items": [
+            {
+              "codigo_produto": "5116803",
+              "descricao": "Junta do Fundo JF301",
+              "preco": 39.2,
+              "quantidade": 1,
+              "referencia": "JF301",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "5116866",
+              "descricao": "Junta do Vidro JG301",
+              "preco": 43.54,
+              "quantidade": 1,
+              "referencia": "JG301",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "5116986",
+              "descricao": "Junta do Ponsuir JTP301",
+              "preco": 43.5275,
+              "quantidade": 8,
+              "referencia": "JTP301",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "5116907",
+              "descricao": "Junta do Vidro do Fundo JGF301",
+              "preco": 29.27,
+              "quantidade": 1,
+              "referencia": "JGF301",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Omega": {
+        "RJ11423": {
+          "items": [
+            {
+              "codigo_produto": "2043647",
+              "descricao": "Ponsuir de Aço 086ST0009",
+              "preco": 216,
+              "quantidade": 2,
+              "referencia": "086ST0009",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17485": {
+          "items": [
+            {
+              "codigo_produto": "2054980",
+              "descricao": "Junta do Vidro 298EG5122",
+              "preco": 26.43,
+              "quantidade": 1,
+              "referencia": "298EG5122",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2045217",
+              "descricao": "Tubo da Caixa 090ST1218",
+              "preco": 60,
+              "quantidade": 1,
+              "referencia": "090ST1218",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2054479",
+              "descricao": "Junta do Fundo 198ZW0077",
+              "preco": 30,
+              "quantidade": 1,
+              "referencia": "198ZW0077",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17768": {
+          "items": [
+            {
+              "codigo_produto": "2055124",
+              "descricao": "Junta do Vidro 298EJ5027",
+              "preco": 30,
+              "quantidade": 1,
+              "referencia": "298EJ5027",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Rado": {
+        "RJ10213": {
+          "items": [
+            {
+              "codigo_produto": "5135482",
+              "descricao": "Elo de Cerâmica 76.02982",
+              "preco": 164.03,
+              "quantidade": 1,
+              "referencia": "76.02982",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4391853",
+              "descricao": "Esqueleto em Cerâmica 76.00641",
+              "preco": 21.87,
+              "quantidade": 1,
+              "referencia": "76.00641",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Swatch": {
+        "RJ16309": {
+          "items": [
+            {
+              "codigo_produto": "5132416",
+              "descricao": "Vidro Big Novo Formato S/ Lente YGS",
+              "preco": 70.734,
+              "quantidade": 1,
+              "referencia": "YGS/E512448",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16830": {
+          "items": [
+            {
+              "codigo_produto": "5131366",
+              "descricao": "Vidro swatch The Chrono s/ Luneta YOS",
+              "preco": 62.42,
+              "quantidade": 1,
+              "referencia": "YOS/E512161",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17132": {
+          "items": [
+            {
+              "codigo_produto": "5133690",
+              "descricao": "Vidro Medium S/ Lente YLS",
+              "preco": 17.06,
+              "quantidade": 1,
+              "referencia": "YLS/E449272",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17402": {
+          "items": [
+            {
+              "codigo_produto": "5131366",
+              "descricao": "Vidro swatch The Chrono s/ Luneta YOS",
+              "preco": 62.42,
+              "quantidade": 1,
+              "referencia": "YOS/E512161",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17709": {
+          "items": [
+            {
+              "codigo_produto": "5132416",
+              "descricao": "Vidro Big Novo Formato S/ Lente YGS",
+              "preco": 70.734,
+              "quantidade": 1,
+              "referencia": "YGS/E512448",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17784": {
+          "items": [
+            {
+              "codigo_produto": "5133690",
+              "descricao": "Vidro Medium S/ Lente YLS",
+              "preco": 17.06,
+              "quantidade": 1,
+              "referencia": "YLS/E449272",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "TAG Heuer": {
+        "RJ17330": {
+          "items": [
+            {
+              "codigo_produto": "1007767",
+              "descricao": "Junta da Coroa HC2003",
+              "preco": 24.33875,
+              "quantidade": 1,
+              "referencia": "HC2003",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17530": {
+          "items": [
+            {
+              "codigo_produto": "1011605",
+              "descricao": "Junta do Vidro HG1175",
+              "preco": 14.499,
+              "quantidade": 1,
+              "referencia": "HG1175",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007771",
+              "descricao": "Junta da Coroa HC2007",
+              "preco": 16.8,
+              "quantidade": 1,
+              "referencia": "HC2007",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011098",
+              "descricao": "Junta do Fundo HF1067",
+              "preco": 16.8,
+              "quantidade": 1,
+              "referencia": "HF1067",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17573": {
+          "items": [
+            {
+              "codigo_produto": "1011088",
+              "descricao": "Junta do Fundo HF1051",
+              "preco": 18.48,
+              "quantidade": 1,
+              "referencia": "HF1051",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17605": {
+          "items": [
+            {
+              "codigo_produto": "1011533",
+              "descricao": "Junta da Luneta HG1097",
+              "preco": 16.8,
+              "quantidade": 1,
+              "referencia": "HG1097",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011532",
+              "descricao": "Junta do Vidro HG1096",
+              "preco": 23.175,
+              "quantidade": 1,
+              "referencia": "HG1096",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1013443",
+              "descricao": "Junta do Ponsuir HP2001",
+              "preco": 28.55538,
+              "quantidade": 4,
+              "referencia": "HP2001",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1006852",
+              "descricao": "Pino de Mola HB1043",
+              "preco": 20.01,
+              "quantidade": 2,
+              "referencia": "HB1043",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17748": {
+          "items": [
+            {
+              "codigo_produto": "5035738",
+              "descricao": "Circuito Eletrônico T240039261",
+              "preco": 38.962,
+              "quantidade": 1,
+              "referencia": "T240039261",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1002457",
+              "descricao": "Pino de Mola FF6016",
+              "preco": 22.8,
+              "quantidade": 1,
+              "referencia": "FF6016",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ18044": {
+          "items": [
+            {
+              "codigo_produto": "1011546",
+              "descricao": "Junta da Luneta HG1112",
+              "preco": 23.55,
+              "quantidade": 1,
+              "referencia": "HG1112",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Tissot": {
+        "RJ15926": {
+          "items": [
+            {
+              "codigo_produto": "55130058",
+              "descricao": "Junta do Fundo U372000909",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "U372000909",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5008391",
+              "descricao": "Coroa de Aço T350025045",
+              "preco": 109.62,
+              "quantidade": 1,
+              "referencia": "T350025045",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5036049",
+              "descricao": "Junta de Vidro T370007540",
+              "preco": 27.41,
+              "quantidade": 1,
+              "referencia": "T370007540",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5009271",
+              "descricao": "Tubo de Aço T358025632",
+              "preco": 13.48,
+              "quantidade": 1,
+              "referencia": "T358025632",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16691": {
+          "items": [
+            {
+              "codigo_produto": "5008484",
+              "descricao": "Coroa de aço",
+              "preco": 96,
+              "quantidade": 1,
+              "referencia": "T350029952",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17734": {
+          "items": [
+            {
+              "codigo_produto": "5023365",
+              "descricao": "Pino da Pulseira T727016633",
+              "preco": 8.67,
+              "quantidade": 1,
+              "referencia": "T727016633",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      }
+    },
+    "SP": {
+      "Baume & Mercier": {
+        "SP15045": {
+          "items": []
+        }
+      },
+      "Breitling": {
+        "SP17265": {
+          "items": [
+            {
+              "codigo_produto": "3005458",
+              "descricao": "Junta do Vidro 290.103",
+              "preco": 12.24,
+              "quantidade": 1,
+              "referencia": "290.103",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005659",
+              "descricao": "Junta do Fundo 292.102",
+              "preco": 9.71,
+              "quantidade": 1,
+              "referencia": "292.102",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005669",
+              "descricao": "Junta do Tubo 292.117",
+              "preco": 4.86,
+              "quantidade": 1,
+              "referencia": "292.117",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005749",
+              "descricao": "Junta a Coroa 293.026",
+              "preco": 13.8,
+              "quantidade": 1,
+              "referencia": "293.026",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005673",
+              "descricao": "Junta do Ponsuir 292.121",
+              "preco": 8.9975,
+              "quantidade": 4,
+              "referencia": "292.121",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17541": {
+          "items": [
+            {
+              "codigo_produto": "3005444",
+              "descricao": "Junta do Vidro 290.087",
+              "preco": 7.2,
+              "quantidade": 1,
+              "referencia": "290.087",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005625",
+              "descricao": "Junta do Fundo 292.054",
+              "preco": 7.5525,
+              "quantidade": 1,
+              "referencia": "292.054",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005636",
+              "descricao": "Junta da Coroa 292.071",
+              "preco": 3.84,
+              "quantidade": 1,
+              "referencia": "292.071",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17595": {
+          "items": [
+            {
+              "codigo_produto": "5136153",
+              "descricao": "Cabaleiro Dourado 260.4365",
+              "preco": 364,
+              "quantidade": 1,
+              "referencia": "260.4365",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3004902",
+              "descricao": "Parafuso do Cabaleiro 281.044",
+              "preco": 11.52,
+              "quantidade": 1,
+              "referencia": "281.044",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005590",
+              "descricao": "Junta do Ponsuir 292.002",
+              "preco": 8.7449,
+              "quantidade": 4,
+              "referencia": "292.002",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5136680",
+              "descricao": "Junta da Coroa 293.001",
+              "preco": 12,
+              "quantidade": 1,
+              "referencia": "293.001",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17609": {
+          "items": [
+            {
+              "codigo_produto": "3016260",
+              "descricao": "Puls Borracha PT Diver Pro III (Refil) 22/20MM - 152SS (Antiga 152S)",
+              "preco": 0,
+              "quantidade": 1,
+              "referencia": "152SS",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17785": {
+          "items": [
+            {
+              "codigo_produto": "3005507",
+              "descricao": "Junta do Vidro 290.156",
+              "preco": 13.2335,
+              "quantidade": 1,
+              "referencia": "290.156",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005727",
+              "descricao": "Junta do Fundo 292.229",
+              "preco": 9.18,
+              "quantidade": 1,
+              "referencia": "292.229",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005669",
+              "descricao": "Junta do Tubo 292.117",
+              "preco": 4.86,
+              "quantidade": 1,
+              "referencia": "292.117",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005749",
+              "descricao": "Junta a Coroa 293.026",
+              "preco": 13.8,
+              "quantidade": 1,
+              "referencia": "293.026",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005673",
+              "descricao": "Junta do Ponsuir 292.121",
+              "preco": 8.9975,
+              "quantidade": 4,
+              "referencia": "292.121",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005723",
+              "descricao": "Junta do Aro 292.216",
+              "preco": 8.88,
+              "quantidade": 1,
+              "referencia": "292.216",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17788": {
+          "items": [
+            {
+              "codigo_produto": "3005397",
+              "descricao": "Junta do Vidro 290.011",
+              "preco": 7.29,
+              "quantidade": 1,
+              "referencia": "290.011",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005624",
+              "descricao": "Junta do Fundo 292.053",
+              "preco": 9.11,
+              "quantidade": 1,
+              "referencia": "292.053",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3003547",
+              "descricao": "Aro de Fixagem da Máquina 210.01",
+              "preco": 8.197,
+              "quantidade": 1,
+              "referencia": "210.01",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17921": {
+          "items": [
+            {
+              "codigo_produto": "3005599",
+              "descricao": "Junta da Coroa/Ponsuir 292.014",
+              "preco": 9.2325,
+              "quantidade": 1,
+              "referencia": "292.014",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005455",
+              "descricao": "Junta do Vidro 290.099",
+              "preco": 7.2,
+              "quantidade": 1,
+              "referencia": "290.099",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "3005634",
+              "descricao": "Junta do Fundo 292.068",
+              "preco": 8.097,
+              "quantidade": 1,
+              "referencia": "292.068",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Cartier": {
+        "SP17349": {
+          "items": [
+            {
+              "codigo_produto": "4002899",
+              "descricao": "Máquina Quartz MX0010FB",
+              "preco": 1864.95,
+              "quantidade": 1,
+              "referencia": "MX0010FB",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Mont Blanc": {
+        "SP17063": {
+          "items": [
+            {
+              "codigo_produto": "4111544",
+              "descricao": "Junta do Fundo MX001WWW",
+              "preco": 13.9,
+              "quantidade": 1,
+              "referencia": "MX001WWW",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Omega": {
+        "SP15572": {
+          "items": [
+            {
+              "codigo_produto": "2036160",
+              "descricao": "Ponteiros de segundos",
+              "preco": 86.6,
+              "quantidade": 1,
+              "referencia": "066PZ4098",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16222": {
+          "items": [
+            {
+              "codigo_produto": "2043720",
+              "descricao": "Pulsador de aço",
+              "preco": 216,
+              "quantidade": 2,
+              "referencia": "086ST0120",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2036765",
+              "descricao": "Ponteiro de segundos do crono",
+              "preco": 96,
+              "quantidade": 1,
+              "referencia": "066TP3712",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16538": {
+          "items": [
+            {
+              "codigo_produto": "2054980",
+              "descricao": "Junta do Vidro 298EG5122",
+              "preco": 26.43,
+              "quantidade": 1,
+              "referencia": "298EG5122",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16826": {
+          "items": [
+            {
+              "codigo_produto": "2036765",
+              "descricao": "Ponteiro de segundos do crono",
+              "preco": 96,
+              "quantidade": 1,
+              "referencia": "066TP3712",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16948": {
+          "items": [
+            {
+              "codigo_produto": "2044747",
+              "descricao": "Junta do Fundo 088NS5134",
+              "preco": 30,
+              "quantidade": 1,
+              "referencia": "088NS5134",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17257": {
+          "items": []
+        }
+      },
+      "TAG Heuer": {
+        "SP13932": {
+          "items": [
+            {
+              "codigo_produto": "1011575",
+              "descricao": "Junta do Vidro do Fundo HG1142",
+              "preco": 29.68,
+              "quantidade": 1,
+              "referencia": "HG1142",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14754": {
+          "items": [
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15047": {
+          "items": [
+            {
+              "codigo_produto": "1011575",
+              "descricao": "Junta do Vidro do Fundo HG1142",
+              "preco": 29.68,
+              "quantidade": 1,
+              "referencia": "HG1142",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP15384": {
+          "items": [
+            {
+              "codigo_produto": "1007221",
+              "descricao": "Coroa de aço",
+              "preco": 196.77,
+              "quantidade": 1,
+              "referencia": "HC0000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP15587": {
+          "items": [
+            {
+              "codigo_produto": "1007588",
+              "descricao": "Tubo da coroa",
+              "preco": 27.944,
+              "quantidade": 1,
+              "referencia": "HC1064",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011063",
+              "descricao": "Junta do Fundo HF1017",
+              "preco": 20.9,
+              "quantidade": 1,
+              "referencia": "HF1017",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP15599": {
+          "items": [
+            {
+              "codigo_produto": "1011502",
+              "descricao": "Junta do Vidro HG1064",
+              "preco": 25.96,
+              "quantidade": 1,
+              "referencia": "HG1064",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011061",
+              "descricao": "Junta do Fundo HF1011",
+              "preco": 20.4975,
+              "quantidade": 1,
+              "referencia": "HF1011",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007765",
+              "descricao": "Junta da Coroa HC2000",
+              "preco": 21.38,
+              "quantidade": 1,
+              "referencia": "HC2000",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15608": {
+          "items": [
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15659": {
+          "items": [
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15671": {
+          "items": [
+            {
+              "codigo_produto": "1011575",
+              "descricao": "Junta do Vidro do Fundo HG1142",
+              "preco": 29.68,
+              "quantidade": 1,
+              "referencia": "HG1142",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15767": {
+          "items": [
+            {
+              "codigo_produto": "1011552",
+              "descricao": "Junta do Vidro HG1118",
+              "preco": 25.45,
+              "quantidade": 1,
+              "referencia": "HG1118",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15895": {
+          "items": [
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15899": {
+          "items": [
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP15925": {
+          "items": [
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16242": {
+          "items": [
+            {
+              "codigo_produto": "1001381",
+              "descricao": "Fecho Deployer - FC5037/0 18.2mm Carrera/Monaco",
+              "preco": 215.5721,
+              "quantidade": 1,
+              "referencia": "FC5037/0",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16253": {
+          "items": [
+            {
+              "codigo_produto": "1011063",
+              "descricao": "Junta do Fundo HF1017",
+              "preco": 20.9,
+              "quantidade": 1,
+              "referencia": "HF1017",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16552": {
+          "items": [
+            {
+              "codigo_produto": "1011575",
+              "descricao": "Junta do Vidro frente ou fundo HG1142",
+              "preco": 29.68,
+              "quantidade": 1,
+              "referencia": "HG1142",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16658": {
+          "items": [
+            {
+              "codigo_produto": "1000730",
+              "descricao": "Puls Borracha PT Fivela - BT0724 21.5mm F1",
+              "preco": 529.94,
+              "quantidade": 1,
+              "referencia": "BT0724",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16717": {
+          "items": [
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16782": {
+          "items": []
+        },
+        "SP16909": {
+          "items": []
+        },
+        "SP16925": {
+          "items": [
+            {
+              "codigo_produto": "1011112",
+              "descricao": "Junta do Fundo HF1083",
+              "preco": 14.315,
+              "quantidade": 1,
+              "referencia": "HF1083",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17017": {
+          "items": [
+            {
+              "codigo_produto": "1011588",
+              "descricao": "Junta do Vidro HG1155",
+              "preco": 29.6825,
+              "quantidade": 1,
+              "referencia": "HG1155",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011101",
+              "descricao": "Junta do Fundo HF1071",
+              "preco": 24.52,
+              "quantidade": 1,
+              "referencia": "HF1071",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007767",
+              "descricao": "Junta da Coroa HC2003",
+              "preco": 24.33875,
+              "quantidade": 1,
+              "referencia": "HC2003",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17197": {
+          "items": [
+            {
+              "codigo_produto": "1000730",
+              "descricao": "Puls Borracha PT Fivela - BT0724 21.5mm F1",
+              "preco": 529.94,
+              "quantidade": 1,
+              "referencia": "BT0724",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17206": {
+          "items": [
+            {
+              "codigo_produto": "1007470",
+              "descricao": "Coroa de aço",
+              "preco": 196.77,
+              "quantidade": 1,
+              "referencia": "HC0350",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17219": {
+          "items": []
+        },
+        "SP17647": {
+          "items": [
+            {
+              "codigo_produto": "1000730",
+              "descricao": "Puls Borracha PT Fivela - BT0724 21.5mm F1",
+              "preco": 529.94,
+              "quantidade": 1,
+              "referencia": "BT0724",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17773": {
+          "items": [
+            {
+              "codigo_produto": "1011593",
+              "descricao": "Junta do Vidro HG1160",
+              "preco": 25.42,
+              "quantidade": 1,
+              "referencia": "HG1160",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17804": {
+          "items": []
+        },
+        "SP17976": {
+          "items": []
+        },
+        "SP18046": {
+          "items": [
+            {
+              "codigo_produto": "1011080",
+              "descricao": "Junta do Fundo HF1041",
+              "preco": 24.34,
+              "quantidade": 1,
+              "referencia": "HF1041",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP18076": {
+          "items": [
+            {
+              "codigo_produto": "1011526",
+              "descricao": "Junta do Vidro do Fundo HG1089",
+              "preco": 21.91,
+              "quantidade": 1,
+              "referencia": "HG1089",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Tissot": {
+        "SP15546": {
+          "items": [
+            {
+              "codigo_produto": "5034539",
+              "descricao": "Mecanismo F6.111 H1/3H",
+              "preco": 244.9,
+              "quantidade": 1,
+              "referencia": "T200000019",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15551": {
+          "items": [
+            {
+              "codigo_produto": "5035738",
+              "descricao": "Circuito Eletrônico T240039261",
+              "preco": 38.962,
+              "quantidade": 1,
+              "referencia": "T240039261",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5037092",
+              "descricao": "Junta de vidro Ø 33.5X.57X1.3",
+              "preco": 11.43,
+              "quantidade": 1,
+              "referencia": "U370000680",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5037196",
+              "descricao": "Junta do Fundo U372000910",
+              "preco": 26.48,
+              "quantidade": 1,
+              "referencia": "U372000910",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15775": {
+          "items": [
+            {
+              "codigo_produto": "5037094",
+              "descricao": "Junta de Vidro U370000685",
+              "preco": 23.26,
+              "quantidade": 3,
+              "referencia": "U370000685",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5010440",
+              "descricao": "Junta de Fundo T373026213",
+              "preco": 23.26,
+              "quantidade": 3,
+              "referencia": "T373026213",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15777": {
+          "items": [
+            {
+              "codigo_produto": "5037066",
+              "descricao": "Junta de vidro Ø 32.X.57X1.",
+              "preco": 11.43446,
+              "quantidade": 1,
+              "referencia": "U370000634",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5010349",
+              "descricao": "Junta do mecanismo",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "T373007887",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5011212",
+              "descricao": "FILTRO FUNDO Z252/352 Z253/353 Z254/354",
+              "preco": 9.3,
+              "quantidade": 1,
+              "referencia": "T399008186",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16815": {
+          "items": [
+            {
+              "codigo_produto": "5034539",
+              "descricao": "Mecanismo F6.111 H1/3H",
+              "preco": 244.9,
+              "quantidade": 1,
+              "referencia": "T200000019",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5036966",
+              "descricao": "Junta de Vidro U370000499",
+              "preco": 26.48,
+              "quantidade": 1,
+              "referencia": "U370000499",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5037164",
+              "descricao": "Junta do Fundo U372000868",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "U372000868",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17062": {
+          "items": [
+            {
+              "codigo_produto": "5009938",
+              "descricao": "Junta do Vidro T370007539",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "T370007539",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17120": {
+          "items": [
+            {
+              "codigo_produto": "5024501",
+              "descricao": "Junta do Vidro U370000684",
+              "preco": 22.47,
+              "quantidade": 1,
+              "referencia": "U370000684",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4116046",
+              "descricao": "Junta do Fundo T372028927",
+              "preco": 13.94,
+              "quantidade": 1,
+              "referencia": "T372028927",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17353": {
+          "items": [
+            {
+              "codigo_produto": "5188430",
+              "descricao": "Junta do fundo",
+              "preco": 22.31,
+              "quantidade": 1,
+              "referencia": "U372000852",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17369": {
+          "items": [
+            {
+              "codigo_produto": "5020175",
+              "descricao": "PULS. COURO BRANCA S/FECHO T TOUCH",
+              "preco": 144,
+              "quantidade": 1,
+              "referencia": "T610014627",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17371": {
+          "items": [
+            {
+              "codigo_produto": "5022747",
+              "descricao": "Terminal de Aço PRS/PRC 200 - T660016224",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "T660016224",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17372": {
+          "items": [
+            {
+              "codigo_produto": "X5130061",
+              "descricao": "Junta do Vidro U370000630",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "U370000630",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "X5130060",
+              "descricao": "Junta do Fundo/Luneta U373001123",
+              "preco": 22.61,
+              "quantidade": 1,
+              "referencia": "U373001123",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17568": {
+          "items": [
+            {
+              "codigo_produto": "5020493",
+              "descricao": "Pulseira croco preta sem fecho",
+              "preco": 360,
+              "quantidade": 1,
+              "referencia": "T610032709",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17867": {
+          "items": [
+            {
+              "codigo_produto": "5010106",
+              "descricao": "Junta do Vidro T370042017",
+              "preco": 21.95,
+              "quantidade": 1,
+              "referencia": "T370042017",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "55130058",
+              "descricao": "Junta do Fundo U372000909",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "U372000909",
+              "separacao": "completa"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "SP": {
+    "PR": {
+      "Bvlgari": {
+        "PR13376": {
+          "items": [
+            {
+              "codigo_produto": "5027351",
+              "descricao": "Luneta de cerâmica preta",
+              "preco": 3631.56,
+              "quantidade": 1,
+              "referencia": "100148333",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR14940": {
+          "items": [
+            {
+              "codigo_produto": "5026523",
+              "descricao": "Fecho de aço",
+              "preco": 1320.57,
+              "quantidade": 1,
+              "referencia": "100101189",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR17490": {
+          "items": [
+            {
+              "codigo_produto": "5026407",
+              "descricao": "Junta da Coroa 100101286",
+              "preco": 9.283,
+              "quantidade": 1,
+              "referencia": "100101286",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026889",
+              "descricao": "Junta do vidro",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100100613",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026224",
+              "descricao": "Junta do fundo",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100104031",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026200",
+              "descricao": "Junta da luneta",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100104030",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026304",
+              "descricao": "Ponteiro de segundos",
+              "preco": 144.5,
+              "quantidade": 1,
+              "referencia": "100101447",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026305",
+              "descricao": "Ponteiros de H.M.",
+              "preco": 289,
+              "quantidade": 1,
+              "referencia": "100101445",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Cartier": {
+        "PR16516": {
+          "items": [
+            {
+              "codigo_produto": "4027661",
+              "descricao": "Junta do Vidro VC140051",
+              "preco": 13.8,
+              "quantidade": 1,
+              "referencia": "VC140051",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR17445": {
+          "items": [
+            {
+              "codigo_produto": "4000005",
+              "descricao": "Máquina Automática 00000076",
+              "preco": 2070,
+              "quantidade": 1,
+              "referencia": "00000076",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR17667": {
+          "items": [
+            {
+              "codigo_produto": "4016340",
+              "descricao": "Mecanismo - Máquina Quartz MXE0BKN9 mudou p/MXE0FFTM",
+              "preco": 1864.95,
+              "quantidade": 1,
+              "referencia": "MXE0BKN9/MXE0FFTM",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Officine Panerai": {
+        "PR17042": {
+          "items": [
+            {
+              "codigo_produto": "4065754",
+              "descricao": "JUNTA DE BORRACHA PARA RELOGIO",
+              "preco": 11.4,
+              "quantidade": 1,
+              "referencia": "MX0078X0",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4064078",
+              "descricao": "Junta da Luneta MX002Q58",
+              "preco": 3.72,
+              "quantidade": 1,
+              "referencia": "MX002Q58",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Omega": {
+        "PR13674": {
+          "items": [
+            {
+              "codigo_produto": "2021432",
+              "descricao": "Vidro de safira",
+              "preco": 209.18,
+              "quantidade": 1,
+              "referencia": "062SN5008",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2047867",
+              "descricao": "Tampa do fundo da caixa",
+              "preco": 488.57,
+              "quantidade": 1,
+              "referencia": "112ST1321",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR14905": {
+          "items": [
+            {
+              "codigo_produto": "2054976",
+              "descricao": "Junta do Vidro 298EG5113",
+              "preco": 25.52875,
+              "quantidade": 1,
+              "referencia": "298EG5113",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR15734": {
+          "items": [
+            {
+              "codigo_produto": "493513",
+              "descricao": "PULSEIRA BORRACHA 210 20 x 18 BLK DPL 1 CATCH",
+              "preco": 953.38,
+              "quantidade": 1,
+              "referencia": "032CVZ015752",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2001645",
+              "descricao": "Fecho de Aço Deployant 94521883",
+              "preco": 880.07,
+              "quantidade": 1,
+              "referencia": "94521883",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR15841": {
+          "items": [
+            {
+              "codigo_produto": "2033059",
+              "descricao": "Ponteiros H.M.",
+              "preco": 193.53,
+              "quantidade": 1,
+              "referencia": "065PY3650",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2053616",
+              "descricao": "Cabochon de ouro",
+              "preco": 89.235,
+              "quantidade": 4,
+              "referencia": "189BB0038",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2053303",
+              "descricao": "Barrete de aço",
+              "preco": 5.27,
+              "quantidade": 2,
+              "referencia": "128ST9784",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2053300",
+              "descricao": "Barrete de aço",
+              "preco": 4.83,
+              "quantidade": 2,
+              "referencia": "128ST9781",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2053301",
+              "descricao": "Barrete de aço",
+              "preco": 4.855,
+              "quantidade": 2,
+              "referencia": "128ST9782",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "TAG Heuer": {
+        "PR16224": {
+          "items": [
+            {
+              "codigo_produto": "447372",
+              "descricao": "Luneta",
+              "preco": 1632.72,
+              "quantidade": 1,
+              "referencia": "HL0907",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR17361": {
+          "items": [
+            {
+              "codigo_produto": "1011529",
+              "descricao": "Junta do Vidro HG1092",
+              "preco": 29.68,
+              "quantidade": 1,
+              "referencia": "HG1092",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "PR17619": {
+          "items": [
+            {
+              "codigo_produto": "1013446",
+              "descricao": "Junta do Ponsuir HP2004",
+              "preco": 16.805,
+              "quantidade": 1,
+              "referencia": "HP2004",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011530",
+              "descricao": "Junta do Vidro HG1093",
+              "preco": 25,
+              "quantidade": 1,
+              "referencia": "HG1093",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011061",
+              "descricao": "Junta do Fundo HF1011",
+              "preco": 20.4975,
+              "quantidade": 1,
+              "referencia": "HF1011",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007767",
+              "descricao": "Junta da Coroa HC2003",
+              "preco": 24.33875,
+              "quantidade": 1,
+              "referencia": "HC2003",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "PR17910": {
+          "items": [
+            {
+              "codigo_produto": "1011120",
+              "descricao": "Junta do Fundo HF1093",
+              "preco": 19.96,
+              "quantidade": 1,
+              "referencia": "HF1093",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "PR18043": {
+          "items": [
+            {
+              "codigo_produto": "1002639",
+              "descricao": "Elo de aço",
+              "preco": 92.14,
+              "quantidade": 2,
+              "referencia": "FM0021/31",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Tissot": {
+        "PR16740": {
+          "items": [
+            {
+              "codigo_produto": "5000431",
+              "descricao": "Mecanismo",
+              "preco": 1112.7,
+              "quantidade": 1,
+              "referencia": "T200045161",
+              "separacao": "completa"
+            }
+          ]
+        }
+      }
+    },
+    "RJ": {
+      "Bvlgari": {
+        "RJ13608": {
+          "items": [
+            {
+              "codigo_produto": "4871065",
+              "descricao": "Pulseira de Borracha Azul (Refil P/ Fivela)",
+              "preco": 903.79,
+              "quantidade": 1,
+              "referencia": "100174590",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ13886": {
+          "items": [
+            {
+              "codigo_produto": "5026794",
+              "descricao": "Puls de Couro Preta 'M' 20/16MM (refil) 100126340",
+              "preco": 747.49,
+              "quantidade": 1,
+              "referencia": "100126340",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ15769": {
+          "items": [
+            {
+              "codigo_produto": "5026604",
+              "descricao": "Coroa de Aço 100102063",
+              "preco": 112.35,
+              "quantidade": 1,
+              "referencia": "100102063",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026728",
+              "descricao": "Mostrador Preto 100110909",
+              "preco": 719.84,
+              "quantidade": 1,
+              "referencia": "100110909",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026727",
+              "descricao": "Ponteiro dos Segundos 100101067",
+              "preco": 87.406,
+              "quantidade": 1,
+              "referencia": "100101067",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ15795": {
+          "items": [
+            {
+              "codigo_produto": "5026217",
+              "descricao": "Coroa de Titanium Preto 100112716",
+              "preco": 266.85,
+              "quantidade": 1,
+              "referencia": "100112716",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ15822": {
+          "items": [
+            {
+              "codigo_produto": "5026322",
+              "descricao": "Junta da Coroa 100119589",
+              "preco": 9.9045,
+              "quantidade": 1,
+              "referencia": "100119589",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026573",
+              "descricao": "Máquina à Base de Troca (ETA E01.001) 100126221",
+              "preco": 687.795,
+              "quantidade": 1,
+              "referencia": "100126221",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026240",
+              "descricao": "Junta do Fundo 100126212",
+              "preco": 9.9045,
+              "quantidade": 1,
+              "referencia": "100126212",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026244",
+              "descricao": "Junta do Fundo 100140526",
+              "preco": 9.0425,
+              "quantidade": 1,
+              "referencia": "100140526",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16295": {
+          "items": [
+            {
+              "codigo_produto": "5026335",
+              "descricao": "Kit de Parafuso do Terminal 100101994",
+              "preco": 121.05,
+              "quantidade": 1,
+              "referencia": "100101994",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16719": {
+          "items": [
+            {
+              "codigo_produto": "5026697",
+              "descricao": "Junta do Vidro 100104027",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100104027",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026693",
+              "descricao": "Junta da Luneta 100109434",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100109434",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026286",
+              "descricao": "Junta do Tubo 100104034",
+              "preco": 9.904,
+              "quantidade": 1,
+              "referencia": "100104034",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026698",
+              "descricao": "Junta do Fundo 100109433",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100109433",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16760": {
+          "items": [
+            {
+              "codigo_produto": "5026797",
+              "descricao": "Fivela de Carbono 16MM 100126464",
+              "preco": 577.75,
+              "quantidade": 1,
+              "referencia": "100126464",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17378": {
+          "items": [
+            {
+              "codigo_produto": "5026779",
+              "descricao": "Junta do Vidro 100126544",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100126544",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026286",
+              "descricao": "Junta do Tubo 100104034",
+              "preco": 9.904,
+              "quantidade": 1,
+              "referencia": "100104034",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026754",
+              "descricao": "Junta do Fundo 100121618",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100121618",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026783",
+              "descricao": "Junta do Vidro do Fundo 100126546",
+              "preco": 13.6,
+              "quantidade": 1,
+              "referencia": "100126546",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5027126",
+              "descricao": "Ponteiro dos Segundos 100141159",
+              "preco": 110.5,
+              "quantidade": 1,
+              "referencia": "100141159",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5027343",
+              "descricao": "Ponteiros de H.M. 100141158",
+              "preco": 289,
+              "quantidade": 1,
+              "referencia": "100141158",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17389": {
+          "items": [
+            {
+              "codigo_produto": "5051903",
+              "descricao": "Puls de Couro Marrom \"M\" 17/14MM (refil) 100153346",
+              "preco": 742.82,
+              "quantidade": 1,
+              "referencia": "100153346",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Cartier": {
+        "RJ15542": {
+          "items": [
+            {
+              "codigo_produto": "4027915",
+              "descricao": "Máquina Automática VC200220",
+              "preco": 2064,
+              "quantidade": 1,
+              "referencia": "VC200220",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ15797": {
+          "items": [
+            {
+              "codigo_produto": "4006743",
+              "descricao": "Junta da Coroa MX004LB1",
+              "preco": 25.03,
+              "quantidade": 1,
+              "referencia": "MX004LB1",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4027677",
+              "descricao": "Junta do Fundo VC140069",
+              "preco": 16.83,
+              "quantidade": 1,
+              "referencia": "VC140069",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4005899",
+              "descricao": "Máquina Quartz MX003K9X",
+              "preco": 1253.99,
+              "quantidade": 1,
+              "referencia": "MX003K9X",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16586": {
+          "items": [
+            {
+              "codigo_produto": "4005899",
+              "descricao": "Máquina Quartz MX003K9X",
+              "preco": 1253.99,
+              "quantidade": 1,
+              "referencia": "MX003K9X",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16851": {
+          "items": [
+            {
+              "codigo_produto": "4005899",
+              "descricao": "Máquina Quartz MX003K9X",
+              "preco": 1253.99,
+              "quantidade": 1,
+              "referencia": "MX003K9X",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16992": {
+          "items": [
+            {
+              "codigo_produto": "4027661",
+              "descricao": "Junta do Vidro VC140051",
+              "preco": 13.8,
+              "quantidade": 1,
+              "referencia": "VC140051",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Hublot": {
+        "RJ17502": {
+          "items": [
+            {
+              "codigo_produto": "5118972",
+              "descricao": "Tubo da Coroa TC301.13",
+              "preco": 87.8,
+              "quantidade": 1,
+              "referencia": "TC301.13",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "5115289",
+              "descricao": "Coroa de Aço CO301.1.00",
+              "preco": 528,
+              "quantidade": 1,
+              "referencia": "CO301.1.00",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4390571",
+              "descricao": "Tige ZSW500-051.010.00015",
+              "preco": 72,
+              "quantidade": 1,
+              "referencia": "ZSW500-051.010.00015",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Mido": {
+        "RJ15824": {
+          "items": [
+            {
+              "codigo_produto": "5035053",
+              "descricao": "Barrile (Corda) T225038828",
+              "preco": 142.97,
+              "quantidade": 1,
+              "referencia": "T225038828",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5029037",
+              "descricao": "Vidro de Acrilico M315016133",
+              "preco": 317.71,
+              "quantidade": 1,
+              "referencia": "M315016133",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Omega": {
+        "RJ11423": {
+          "items": [
+            {
+              "codigo_produto": "2032869",
+              "descricao": "Ponteiros H.M. 065PP0910LG1250",
+              "preco": 228,
+              "quantidade": 1,
+              "referencia": "065PP0910LG1250",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2036709",
+              "descricao": "Ponteiro Cont. de Min. LRJ 066TP0910LG04CM",
+              "preco": 96,
+              "quantidade": 1,
+              "referencia": "066TP0910LG04CM",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2036095",
+              "descricao": "Ponteiro GMT Azul 066PP0910LG10GM",
+              "preco": 96,
+              "quantidade": 1,
+              "referencia": "066PP0910LG10GM",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2036708",
+              "descricao": "Ponteiro Cont. de Horas LRJ 066TP0910LG04CH",
+              "preco": 96,
+              "quantidade": 1,
+              "referencia": "066TP0910LG04CH",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2036711",
+              "descricao": "Ponteiro Segundos do Chrono LRJ 066TP0910LG1350",
+              "preco": 96,
+              "quantidade": 1,
+              "referencia": "066TP0910LG1350",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2036712",
+              "descricao": "Ponteiro de Segundos Branco 066TP0911LG04PS",
+              "preco": 96,
+              "quantidade": 1,
+              "referencia": "066TP0911LG04PS",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ12351": {
+          "items": [
+            {
+              "codigo_produto": "2001688",
+              "descricao": "Puls de Couro Croco Marrom STD 18X16MM (refil) 97222064",
+              "preco": 1329.89,
+              "quantidade": 1,
+              "referencia": "97222064",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ12814": {
+          "items": [
+            {
+              "codigo_produto": "2051098",
+              "descricao": "Fecho de Aço/Ouro 117DA1489814",
+              "preco": 758.93,
+              "quantidade": 1,
+              "referencia": "117DA1489814",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ13573": {
+          "items": [
+            {
+              "codigo_produto": "2021320",
+              "descricao": "Vidro de Safira 062SN0958",
+              "preco": 492.54,
+              "quantidade": 1,
+              "referencia": "062SN0958",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ14633": {
+          "items": [
+            {
+              "codigo_produto": "2021507",
+              "descricao": "Vidro de Safira 062SNZ002546",
+              "preco": 2556.62,
+              "quantidade": 1,
+              "referencia": "062SNZ002546",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2039232",
+              "descricao": "Coroa Dourada 069NYZ000730",
+              "preco": 531.38,
+              "quantidade": 1,
+              "referencia": "069NYZ000730",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2045026",
+              "descricao": "Tubo da Caixa 090NYZ000823",
+              "preco": 139.15,
+              "quantidade": 1,
+              "referencia": "090NYZ000823",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2046145",
+              "descricao": "Tige de Aço 102ST9008",
+              "preco": 24.955,
+              "quantidade": 1,
+              "referencia": "102ST9008",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2055254",
+              "descricao": "Junta do Vidro 298ER5131",
+              "preco": 25.54,
+              "quantidade": 1,
+              "referencia": "298ER5131",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ15038": {
+          "items": [
+            {
+              "codigo_produto": "2038368",
+              "descricao": "Pino de Mola 068ST2207",
+              "preco": 16.1475,
+              "quantidade": 2,
+              "referencia": "068ST2207",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ15700": {
+          "items": [
+            {
+              "codigo_produto": "2051192",
+              "descricao": "Fecho de aço / ouro",
+              "preco": 700.22,
+              "quantidade": 1,
+              "referencia": "117DE1448431",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ15701": {
+          "items": [
+            {
+              "codigo_produto": "2037245",
+              "descricao": "Ponteiro Split Rattr. dos Segundos 066TZ4088",
+              "preco": 86.64,
+              "quantidade": 1,
+              "referencia": "066TZ4088",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2055741",
+              "descricao": "Junta do Vidro 298ZW5233",
+              "preco": 25.67,
+              "quantidade": 1,
+              "referencia": "298ZW5233",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2044541",
+              "descricao": "Junta do Ponsuir 088NS0420",
+              "preco": 25.53,
+              "quantidade": 6,
+              "referencia": "088NS0420",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2039465",
+              "descricao": "Coroa de Aço 069ST42149",
+              "preco": 124.55,
+              "quantidade": 1,
+              "referencia": "069ST42149",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2037246",
+              "descricao": "Ponteiro Split dos Segundos 066TZ4089",
+              "preco": 51,
+              "quantidade": 1,
+              "referencia": "066TZ4089",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ15900": {
+          "items": [
+            {
+              "codigo_produto": "2058501",
+              "descricao": "Circuito 7221456B4000",
+              "preco": 709.2,
+              "quantidade": 1,
+              "referencia": "7221456B4000",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2055149",
+              "descricao": "Junta do vidro 298EJ5104",
+              "preco": 25.48,
+              "quantidade": 1,
+              "referencia": "298EJ5104",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16551": {
+          "items": [
+            {
+              "codigo_produto": "2044751",
+              "descricao": "Junta do Fundo 088NS5140",
+              "preco": 25.76,
+              "quantidade": 1,
+              "referencia": "088NS5140",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16678": {
+          "items": [
+            {
+              "codigo_produto": "2049991",
+              "descricao": "Elo de Aço 114ST1579",
+              "preco": 192.99,
+              "quantidade": 1,
+              "referencia": "114ST1579",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2053088",
+              "descricao": "Barrete de Aço 128ST9050",
+              "preco": 6,
+              "quantidade": 1,
+              "referencia": "128ST9050",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2054618",
+              "descricao": "Bucha de Aço 201ST0059",
+              "preco": 4.781,
+              "quantidade": 1,
+              "referencia": "201ST0059",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17485": {
+          "items": [
+            {
+              "codigo_produto": "2058565",
+              "descricao": "Circuito Eletrônico 1530 (255.111) 7221530C4000",
+              "preco": 387.95333,
+              "quantidade": 1,
+              "referencia": "7221530C4000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17607": {
+          "items": [
+            {
+              "codigo_produto": "2044548",
+              "descricao": "Junta da Valvula de Hélio 088NS0435",
+              "preco": 25.465,
+              "quantidade": 1,
+              "referencia": "088NS0435",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17768": {
+          "items": [
+            {
+              "codigo_produto": "2039784",
+              "descricao": "Coroa Dourada 069SX42107",
+              "preco": 144,
+              "quantidade": 1,
+              "referencia": "069SX42107",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2044665",
+              "descricao": "Junta do Fundo 088NS0985",
+              "preco": 30,
+              "quantidade": 1,
+              "referencia": "088NS0985",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2045198",
+              "descricao": "Tubo da Caixa 090ST0330",
+              "preco": 49.554,
+              "quantidade": 1,
+              "referencia": "090ST0330",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "TAG Heuer": {
+        "RJ15679": {
+          "items": [
+            {
+              "codigo_produto": "1001509",
+              "descricao": "Puls. Calfskin Couro PT Refil - FC6112 21x17.00 mm Kirium",
+              "preco": 1078.22,
+              "quantidade": 1,
+              "referencia": "FC6112",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1001350",
+              "descricao": "Fecho deployant em aço",
+              "preco": 103.25,
+              "quantidade": 1,
+              "referencia": "FC5000",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ16514": {
+          "items": [
+            {
+              "codigo_produto": "1003403",
+              "descricao": "Puls de Couro AZ/Borracha PT com Pesponto VRM 22/22MM (refil)",
+              "preco": 818.36,
+              "quantidade": 1,
+              "referencia": "FT6100",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17330": {
+          "items": [
+            {
+              "codigo_produto": "1012981",
+              "descricao": "Mola da Luneta HL1115",
+              "preco": 22.94,
+              "quantidade": 1,
+              "referencia": "HL1115",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011564",
+              "descricao": "Junta do Vidro HG1130",
+              "preco": 25,
+              "quantidade": 1,
+              "referencia": "HG1130",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011103",
+              "descricao": "Junta do Fundo HF1073",
+              "preco": 24.3,
+              "quantidade": 1,
+              "referencia": "HF1073",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007384",
+              "descricao": "Coroa PVD Preto HC0224",
+              "preco": 193.91,
+              "quantidade": 1,
+              "referencia": "HC0224",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007658",
+              "descricao": "Tubo da Coroa HC1153",
+              "preco": 28,
+              "quantidade": 1,
+              "referencia": "HC1153",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1002148",
+              "descricao": "Fecho de Aço FF0229",
+              "preco": 114.35,
+              "quantidade": 1,
+              "referencia": "FF0229",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17336": {
+          "items": [
+            {
+              "codigo_produto": "1011099",
+              "descricao": "Junta do Fundo HF1068",
+              "preco": 19.96,
+              "quantidade": 1,
+              "referencia": "HF1068",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17573": {
+          "items": [
+            {
+              "codigo_produto": "1007773",
+              "descricao": "Junta da Coroa HC2009",
+              "preco": 16.8,
+              "quantidade": 1,
+              "referencia": "HC2009",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17605": {
+          "items": [
+            {
+              "codigo_produto": "1011087",
+              "descricao": "Junta do Fundo HF1049",
+              "preco": 29.68,
+              "quantidade": 1,
+              "referencia": "HF1049",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17748": {
+          "items": [
+            {
+              "codigo_produto": "1011462",
+              "descricao": "Junta do Vidro HG1000",
+              "preco": 13.78333,
+              "quantidade": 1,
+              "referencia": "HG1000",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011050",
+              "descricao": "Junta do Fundo HF1000",
+              "preco": 13.97857,
+              "quantidade": 1,
+              "referencia": "HF1000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17821": {
+          "items": [
+            {
+              "codigo_produto": "1011561",
+              "descricao": "Junta do Vidro HG1127",
+              "preco": 29.69,
+              "quantidade": 1,
+              "referencia": "HG1127",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007770",
+              "descricao": "Junta da Coroa HC2006",
+              "preco": 20.97556,
+              "quantidade": 1,
+              "referencia": "HC2006",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011108",
+              "descricao": "Junta do Fundo HF1078",
+              "preco": 24.71,
+              "quantidade": 1,
+              "referencia": "HF1078",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17933": {
+          "items": [
+            {
+              "codigo_produto": "1000075",
+              "descricao": "Puls de Aço TAG Heuer - BA0570",
+              "preco": 1910.33,
+              "quantidade": 1,
+              "referencia": "BA0570",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ18044": {
+          "items": [
+            {
+              "codigo_produto": "1013270",
+              "descricao": "Pulsador de aço",
+              "preco": 125.30956,
+              "quantidade": 1,
+              "referencia": "HP0119",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011545",
+              "descricao": "Junta do Vidro HG1111",
+              "preco": 17.14,
+              "quantidade": 1,
+              "referencia": "HG1111",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1013442",
+              "descricao": "Junta do Ponsuir HP2000",
+              "preco": 12.9625,
+              "quantidade": 2,
+              "referencia": "HP2000",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Tissot": {
+        "RJ16228": {
+          "items": [
+            {
+              "codigo_produto": "5131673",
+              "descricao": "Junta do Vidro de Fundo U370000617",
+              "preco": 26.86,
+              "quantidade": 1,
+              "referencia": "U370000617",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17277": {
+          "items": [
+            {
+              "codigo_produto": "5018174",
+              "descricao": "Puls de Couro Marrom 22/20MM T600013455",
+              "preco": 189.89,
+              "quantidade": 1,
+              "referencia": "T600013455",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17294": {
+          "items": [
+            {
+              "codigo_produto": "5037070",
+              "descricao": "Junta de Vidro U370000638",
+              "preco": 33.18,
+              "quantidade": 1,
+              "referencia": "U370000638",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17379": {
+          "items": [
+            {
+              "codigo_produto": "5020347",
+              "descricao": "Puls Couro PT com Pesponto LRJ (refil) XL - T610028615",
+              "preco": 77.75433,
+              "quantidade": 1,
+              "referencia": "T610028615",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "RJ17734": {
+          "items": [
+            {
+              "codigo_produto": "5021114",
+              "descricao": "Elo de Aço T613015278",
+              "preco": 26.97,
+              "quantidade": 1,
+              "referencia": "T613015278",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "RJ17876": {
+          "items": [
+            {
+              "codigo_produto": "5009952",
+              "descricao": "Junta do Vidro T370017179",
+              "preco": 11.43446,
+              "quantidade": 1,
+              "referencia": "T370017179",
+              "separacao": "completa"
+            }
+          ]
+        }
+      }
+    },
+    "SP": {
+      "Baume & Mercier": {
+        "SP15045": {
+          "items": [
+            {
+              "codigo_produto": "4042383",
+              "descricao": "Máquina Quartz - MXE0DPR1 (antigo MX004XZ5)",
+              "preco": 980.49,
+              "quantidade": 1,
+              "referencia": "MXE0DPR1",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4043017",
+              "descricao": "Junta do Vidro MX006T5F",
+              "preco": 10.8,
+              "quantidade": 1,
+              "referencia": "MX006T5F",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4043019",
+              "descricao": "Junta do Fundo MX006T5H",
+              "preco": 10.8,
+              "quantidade": 1,
+              "referencia": "MX006T5H",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Bvlgari": {
+        "SP13293": {
+          "items": [
+            {
+              "codigo_produto": "5026480",
+              "descricao": "Vidro de safira",
+              "preco": 392.33,
+              "quantidade": 1,
+              "referencia": "100103378",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14782": {
+          "items": [
+            {
+              "codigo_produto": "5026761",
+              "descricao": "Mostrador preto",
+              "preco": 983.48,
+              "quantidade": 1,
+              "referencia": "100101948",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14911": {
+          "items": [
+            {
+              "codigo_produto": "5026877",
+              "descricao": "Elo de aço e ouro",
+              "preco": 400.95,
+              "quantidade": 1,
+              "referencia": "100104065",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15314": {
+          "items": [
+            {
+              "codigo_produto": "5026375",
+              "descricao": "Ponteiro de segundos do cronógrafo",
+              "preco": 67.896,
+              "quantidade": 1,
+              "referencia": "100101265",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15324": {
+          "items": [
+            {
+              "codigo_produto": "5026375",
+              "descricao": "Ponteiro de segundos do cronógrafo",
+              "preco": 67.896,
+              "quantidade": 1,
+              "referencia": "100101265",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15850": {
+          "items": [
+            {
+              "codigo_produto": "5051374",
+              "descricao": "ATT STE D3.6 L22.5 KIT",
+              "preco": 103.58,
+              "quantidade": 1,
+              "referencia": "100149603",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16027": {
+          "items": [
+            {
+              "codigo_produto": "5026966",
+              "descricao": "Elo de aço",
+              "preco": 400.94,
+              "quantidade": 2,
+              "referencia": "100104066",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16558": {
+          "items": [
+            {
+              "codigo_produto": "5026850",
+              "descricao": "(T) Máq. base de troca ETA 955.412 HMSD HF1 GRE BLK 3H QTZ",
+              "preco": 493.13,
+              "quantidade": 1,
+              "referencia": "100104124",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16870": {
+          "items": [
+            {
+              "codigo_produto": "5026379",
+              "descricao": "Ponteiro Cont. do Submostrador 100101241",
+              "preco": 49.522,
+              "quantidade": 3,
+              "referencia": "100101241",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17904": {
+          "items": [
+            {
+              "codigo_produto": "5026465",
+              "descricao": "Junta do Vidro 100100287",
+              "preco": 13.113,
+              "quantidade": 1,
+              "referencia": "100100287",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "5026313",
+              "descricao": "Junta do Fundo 100100286",
+              "preco": 8.793,
+              "quantidade": 1,
+              "referencia": "100100286",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Cartier": {
+        "SP15023": {
+          "items": [
+            {
+              "codigo_produto": "4027873",
+              "descricao": "Mecanismo Quartz - VC200148",
+              "preco": 4284,
+              "quantidade": 1,
+              "referencia": "VC200148",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15173": {
+          "items": [
+            {
+              "codigo_produto": "5190871",
+              "descricao": "QTZ MVT 157 STAND H2",
+              "preco": 1194,
+              "quantidade": 1,
+              "referencia": "MXE0FFTM",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4004694",
+              "descricao": "Junta do Fundo MX002N5G",
+              "preco": 13.2,
+              "quantidade": 1,
+              "referencia": "MX002N5G",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16865": {
+          "items": [
+            {
+              "codigo_produto": "4002899",
+              "descricao": "Máquina Quartz MX0010FB",
+              "preco": 1864.95,
+              "quantidade": 1,
+              "referencia": "MX0010FB",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4006130",
+              "descricao": "Junta do Vidro MX003PFW",
+              "preco": 13.80167,
+              "quantidade": 1,
+              "referencia": "MX003PFW",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4006743",
+              "descricao": "Junta da Coroa MX004LB1",
+              "preco": 25.03,
+              "quantidade": 1,
+              "referencia": "MX004LB1",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17553": {
+          "items": [
+            {
+              "codigo_produto": "4002899",
+              "descricao": "Máquina Quartz MX0010FB",
+              "preco": 1864.95,
+              "quantidade": 1,
+              "referencia": "MX0010FB",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4006130",
+              "descricao": "Junta do Vidro MX003PFW",
+              "preco": 13.80167,
+              "quantidade": 1,
+              "referencia": "MX003PFW",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4013684",
+              "descricao": "JUnta do Fundo MX0096ZT",
+              "preco": 13.802,
+              "quantidade": 1,
+              "referencia": "MX0096ZT",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4006743",
+              "descricao": "Junta da Coroa MX004LB1",
+              "preco": 25.03,
+              "quantidade": 1,
+              "referencia": "MX004LB1",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17702": {
+          "items": [
+            {
+              "codigo_produto": "4016341",
+              "descricao": "Máquina Quartz MXE0BKNK (Subst. MXE0FFRS)",
+              "preco": 1529.26,
+              "quantidade": 1,
+              "referencia": "MXE0BKNK/MXE0FFRS",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4028648",
+              "descricao": "Junta do Fundo VQ015436",
+              "preco": 16.1,
+              "quantidade": 1,
+              "referencia": "VQ015436",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4006743",
+              "descricao": "Junta da Coroa MX004LB1",
+              "preco": 25.03,
+              "quantidade": 1,
+              "referencia": "MX004LB1",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Hublot": {
+        "SP15707": {
+          "items": [
+            {
+              "codigo_produto": "5113295",
+              "descricao": "Ponteiro de segundos do cronógrafo",
+              "preco": 216,
+              "quantidade": 1,
+              "referencia": "AS301.1",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "IWC": {
+        "SP14562": {
+          "items": [
+            {
+              "codigo_produto": "4052753",
+              "descricao": "Puls de Borracha Preta 22/20MM STD (refil p/FI) - IWA31758",
+              "preco": 1038,
+              "quantidade": 1,
+              "referencia": "IWA31758",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Mont Blanc": {
+        "SP13430": {
+          "items": [
+            {
+              "codigo_produto": "4111282",
+              "descricao": "Junta da Luneta MX0009TZ",
+              "preco": 24.88,
+              "quantidade": 1,
+              "referencia": "MX0009TZ",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4126238",
+              "descricao": "Pulseira de Couro Bovino",
+              "preco": 777,
+              "quantidade": 1,
+              "referencia": "1496",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17063": {
+          "items": [
+            {
+              "codigo_produto": "4111469",
+              "descricao": "Máquina Quartz MX001HV8",
+              "preco": 492,
+              "quantidade": 1,
+              "referencia": "MX001HV8",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "4111448",
+              "descricao": "Junta da Coroa MX001819",
+              "preco": 24.88,
+              "quantidade": 1,
+              "referencia": "MX001819",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17512": {
+          "items": [
+            {
+              "codigo_produto": "4111233",
+              "descricao": "Máquina QTZ ETA  956.112 H3 GU6H DSC-BC - MX0001Z6",
+              "preco": 273,
+              "quantidade": 1,
+              "referencia": "MX0001Z6",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4111493",
+              "descricao": "Junta do Vidro MX001KSQ",
+              "preco": 11.395,
+              "quantidade": 1,
+              "referencia": "MX001KSQ",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4111442",
+              "descricao": "Junta do Fundo MX0015HD",
+              "preco": 11.404,
+              "quantidade": 1,
+              "referencia": "MX0015HD",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4111760",
+              "descricao": "Junta da Coroa MX004L2W",
+              "preco": 37,
+              "quantidade": 1,
+              "referencia": "MX004L2W",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17753": {
+          "items": [
+            {
+              "codigo_produto": "4112088",
+              "descricao": "MECANISMO: AUTOMATICO EM LATAO PARA RELOGIO",
+              "preco": 1608,
+              "quantidade": 1,
+              "referencia": "MX006RQ8",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4111556",
+              "descricao": "Junta do Vidro MX0020LS",
+              "preco": 20.4,
+              "quantidade": 1,
+              "referencia": "MX0020LS",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4111637",
+              "descricao": "Junta do Fundo MX00330K",
+              "preco": 20.4,
+              "quantidade": 1,
+              "referencia": "MX00330K",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Officine Panerai": {
+        "SP18092": {
+          "items": [
+            {
+              "codigo_produto": "5175596",
+              "descricao": "Puls de Couro Scamosciato Marrom/Bege Dark 24/22MM (refil p/ FI) - MX006ZBZ",
+              "preco": 726,
+              "quantidade": 1,
+              "referencia": "MX006ZBZ",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Omega": {
+        "SP11524": {
+          "items": [
+            {
+              "codigo_produto": "2054500",
+              "descricao": "Junta do Fundo 198ZW5031",
+              "preco": 25.57,
+              "quantidade": 1,
+              "referencia": "198ZW5031",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2036161",
+              "descricao": "Ponteiro de segundos do cronógrafo",
+              "preco": 86.605,
+              "quantidade": 1,
+              "referencia": "066PZ4103",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2058103",
+              "descricao": "MASSA OSCILANTE - ROTOR 1152",
+              "preco": 857.84,
+              "quantidade": 1,
+              "referencia": "722115211431RB",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP12271": {
+          "items": [
+            {
+              "codigo_produto": "2020493",
+              "descricao": "Vidro de safira",
+              "preco": 2559.99,
+              "quantidade": 1,
+              "referencia": "062SB5316A",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2038129",
+              "descricao": "Kit de ponteiros",
+              "preco": 1427.59,
+              "quantidade": 1,
+              "referencia": "067WV00319",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2003859",
+              "descricao": "SCREW",
+              "preco": 20.692,
+              "quantidade": 1,
+              "referencia": "72200003986",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP12828": {
+          "items": [
+            {
+              "codigo_produto": "2015548",
+              "descricao": "DECOR Ac D1 1.8 L1 10.55",
+              "preco": 4.95,
+              "quantidade": 1,
+              "referencia": "036ST0045",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP12867": {
+          "items": [
+            {
+              "codigo_produto": "2059293",
+              "descricao": "HOUR WHEEL TIME-ZONES H21",
+              "preco": 86.86,
+              "quantidade": 1,
+              "referencia": "7223603A3603521",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP13023": {
+          "items": [
+            {
+              "codigo_produto": "2008361",
+              "descricao": "Roda Inversora 72211501488",
+              "preco": 86.7,
+              "quantidade": 1,
+              "referencia": "72211501488",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2055231",
+              "descricao": "Junta do vidro",
+              "preco": 25.51,
+              "quantidade": 1,
+              "referencia": "298ER3063",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2039914",
+              "descricao": "Coroa Folheada",
+              "preco": 123.32,
+              "quantidade": 1,
+              "referencia": "069SY43286",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP13034": {
+          "items": [
+            {
+              "codigo_produto": "2049966",
+              "descricao": "Elo de Aço 114ST1469",
+              "preco": 183.44,
+              "quantidade": 3,
+              "referencia": "114ST1469",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP13139": {
+          "items": [
+            {
+              "codigo_produto": "2039153",
+              "descricao": "Coroa folheada",
+              "preco": 214.16,
+              "quantidade": 1,
+              "referencia": "069NA33001",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2020022",
+              "descricao": "Vidro acrílico",
+              "preco": 359.41,
+              "quantidade": 1,
+              "referencia": "062PN1027",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2004962",
+              "descricao": "Corda",
+              "preco": 150.4,
+              "quantidade": 1,
+              "referencia": "72202401204",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP13535": {
+          "items": [
+            {
+              "codigo_produto": "2057677",
+              "descricao": "Disco do calendário",
+              "preco": 224.4,
+              "quantidade": 1,
+              "referencia": "72207501516AJ",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP13605": {
+          "items": [
+            {
+              "codigo_produto": "2049311",
+              "descricao": "Elo de ouro",
+              "preco": 1975.05,
+              "quantidade": 2,
+              "referencia": "114BA6552",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP13772": {
+          "items": [
+            {
+              "codigo_produto": "2058340",
+              "descricao": "Circuito Eletrônico 7221424B9600",
+              "preco": 387.78333,
+              "quantidade": 1,
+              "referencia": "7221424B9600",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14208": {
+          "items": [
+            {
+              "codigo_produto": "4863836",
+              "descricao": "CENTRAL BUSH MAIN PLATE 7223861A6313",
+              "preco": 50.94333,
+              "quantidade": 1,
+              "referencia": "7223861A6313",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14269": {
+          "items": [
+            {
+              "codigo_produto": "2023836",
+              "descricao": "Mostrador prata",
+              "preco": 1190.61,
+              "quantidade": 1,
+              "referencia": "064PT2833052",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2033091",
+              "descricao": "Ponteiros H.M.",
+              "preco": 213.92,
+              "quantidade": 1,
+              "referencia": "065PY3934",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2045222",
+              "descricao": "Tubo da caixa",
+              "preco": 49.565,
+              "quantidade": 1,
+              "referencia": "090ST1228",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14339": {
+          "items": [
+            {
+              "codigo_produto": "2058340",
+              "descricao": "Circuito Eletrônico 7221424B9600",
+              "preco": 387.78333,
+              "quantidade": 1,
+              "referencia": "7221424B9600",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2054976",
+              "descricao": "Junta do Vidro 298EG5113",
+              "preco": 25.52875,
+              "quantidade": 1,
+              "referencia": "298EG5113",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2054490",
+              "descricao": "Junta do Fundo 198ZW5009",
+              "preco": 25.565,
+              "quantidade": 1,
+              "referencia": "198ZW5009",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14343": {
+          "items": [
+            {
+              "codigo_produto": "2044755",
+              "descricao": "Junta do Fundo 088NS5143",
+              "preco": 25.82846,
+              "quantidade": 1,
+              "referencia": "088NS5143",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2033235",
+              "descricao": "Ponteiros H.M. Seamaster 007 quartz",
+              "preco": 193.595,
+              "quantidade": 1,
+              "referencia": "065PZ3841",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2036150",
+              "descricao": "Ponteiro de segundos",
+              "preco": 86.605,
+              "quantidade": 1,
+              "referencia": "066PZ3842",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2038368",
+              "descricao": "Pino de Mola 068ST2207",
+              "preco": 16.1475,
+              "quantidade": 2,
+              "referencia": "068ST2207",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14345": {
+          "items": [
+            {
+              "codigo_produto": "2058870",
+              "descricao": "Massa oscilante",
+              "preco": 853.52,
+              "quantidade": 1,
+              "referencia": "7222500D2201018",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14370": {
+          "items": [
+            {
+              "codigo_produto": "2049969",
+              "descricao": "Elo de aço",
+              "preco": 120.922,
+              "quantidade": 1,
+              "referencia": "114ST1499",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15415": {
+          "items": [
+            {
+              "codigo_produto": "2001561",
+              "descricao": "Fivela PVD Rose 16MM 94511604",
+              "preco": 180.53,
+              "quantidade": 1,
+              "referencia": "94511604",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2001743",
+              "descricao": "Pulseira de couro bovino preta safiano 18x16mm",
+              "preco": 618.19,
+              "quantidade": 1,
+              "referencia": "97511064",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15504": {
+          "items": [
+            {
+              "codigo_produto": "2054976",
+              "descricao": "Junta do Vidro 298EG5113",
+              "preco": 25.52875,
+              "quantidade": 1,
+              "referencia": "298EG5113",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15741": {
+          "items": [
+            {
+              "codigo_produto": "2037257",
+              "descricao": "Ponteiro de segundos central",
+              "preco": 50.97,
+              "quantidade": 1,
+              "referencia": "066TZ4167",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15755": {
+          "items": [
+            {
+              "codigo_produto": "2055448",
+              "descricao": "Junta do vidro",
+              "preco": 25.57,
+              "quantidade": 1,
+              "referencia": "298EW2931",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2033639",
+              "descricao": "Ponteiros H+M",
+              "preco": 112.16,
+              "quantidade": 1,
+              "referencia": "065TN3401",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2040598",
+              "descricao": "Aro de fixação da máquina",
+              "preco": 138.67,
+              "quantidade": 1,
+              "referencia": "079137717C",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15759": {
+          "items": [
+            {
+              "codigo_produto": "2037469",
+              "descricao": "Ponteiro de segundos do cronógrafo laranja",
+              "preco": 86.6,
+              "quantidade": 1,
+              "referencia": "066WP4746",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15923": {
+          "items": [
+            {
+              "codigo_produto": "2055574",
+              "descricao": "Junta do vidro",
+              "preco": 25.73,
+              "quantidade": 1,
+              "referencia": "298ZSZ002765",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2044328",
+              "descricao": "Junta da válvula",
+              "preco": 25.485,
+              "quantidade": 2,
+              "referencia": "088CVZ003007",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2055568",
+              "descricao": "Junta do vidro",
+              "preco": 25.73,
+              "quantidade": 1,
+              "referencia": "298ZSZ002106",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2046145",
+              "descricao": "Tige de Aço 102ST9008",
+              "preco": 24.955,
+              "quantidade": 1,
+              "referencia": "102ST9008",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2059822",
+              "descricao": "Tirete 7228500A5108018",
+              "preco": 142.73,
+              "quantidade": 1,
+              "referencia": "7228500A5108018",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16047": {
+          "items": [
+            {
+              "codigo_produto": "491701",
+              "descricao": "VIDRO CRISTAL, BACK JUNTA",
+              "preco": 25.54,
+              "quantidade": 1,
+              "referencia": "298Z016349",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "492335",
+              "descricao": "JUNTA SYNTH.MAT 34.1 T0.62 H0.9",
+              "preco": 25.64,
+              "quantidade": 1,
+              "referencia": "298ZSZ015828",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "492341",
+              "descricao": "JUNTA SYNTH.MAT 36.92 T0.36 H1",
+              "preco": 25.57,
+              "quantidade": 1,
+              "referencia": "298ZSZ015829",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "492301",
+              "descricao": "JUNTA O-RING D0.6 D1.95 0.60",
+              "preco": 25.41,
+              "quantidade": 1,
+              "referencia": "088CVZ015847",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "492323",
+              "descricao": "JUNTA SYNTH.MAT 28.1 T0.36 H0.7",
+              "preco": 25.54,
+              "quantidade": 1,
+              "referencia": "298Z016342",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16124": {
+          "items": [
+            {
+              "codigo_produto": "2044755",
+              "descricao": "Junta do Fundo 088NS5143",
+              "preco": 25.82846,
+              "quantidade": 1,
+              "referencia": "088NS5143",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2042987",
+              "descricao": "Luneta de aço / preta",
+              "preco": 1101.59,
+              "quantidade": 1,
+              "referencia": "082SU1464",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16538": {
+          "items": [
+            {
+              "codigo_produto": "2058565",
+              "descricao": "Circuito Eletrônico 1530 (255.111) 7221530C4000",
+              "preco": 387.95333,
+              "quantidade": 1,
+              "referencia": "7221530C4000",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2039455",
+              "descricao": "Coroa de Aço 069ST42137",
+              "preco": 122.53,
+              "quantidade": 1,
+              "referencia": "069ST42137",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16787": {
+          "items": [
+            {
+              "codigo_produto": "2055153",
+              "descricao": "Junta do Vidro 298EJ5113",
+              "preco": 28.098,
+              "quantidade": 1,
+              "referencia": "298EJ5113",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2054490",
+              "descricao": "Junta do Fundo 198ZW5009",
+              "preco": 25.565,
+              "quantidade": 1,
+              "referencia": "198ZW5009",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "2058340",
+              "descricao": "Circuito Eletrônico 7221424B9600",
+              "preco": 387.78333,
+              "quantidade": 1,
+              "referencia": "7221424B9600",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16826": {
+          "items": [
+            {
+              "codigo_produto": "2054498",
+              "descricao": "Junta do Fundo 198ZW5029",
+              "preco": 30,
+              "quantidade": 1,
+              "referencia": "198ZW5029",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2008310",
+              "descricao": "Rolamento",
+              "preco": 163.68,
+              "quantidade": 1,
+              "referencia": "72211101479",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17257": {
+          "items": [
+            {
+              "codigo_produto": "2033269",
+              "descricao": "Ponteiros H.M.",
+              "preco": 193.59,
+              "quantidade": 1,
+              "referencia": "065PZ4102",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "2008361",
+              "descricao": "Roda Inversora 72211501488",
+              "preco": 86.7,
+              "quantidade": 1,
+              "referencia": "72211501488",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17831": {
+          "items": [
+            {
+              "codigo_produto": "2054976",
+              "descricao": "Junta do Vidro 298EG5113",
+              "preco": 25.52875,
+              "quantidade": 1,
+              "referencia": "298EG5113",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "Rado": {
+        "SP15553": {
+          "items": [
+            {
+              "codigo_produto": "5179838",
+              "descricao": "Barrete",
+              "preco": 13.685,
+              "quantidade": 38,
+              "referencia": "40.5086",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16563": {
+          "items": [
+            {
+              "codigo_produto": "5182514",
+              "descricao": "Junta de fundo",
+              "preco": 27.37,
+              "quantidade": 1,
+              "referencia": "47.4541",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17035": {
+          "items": [
+            {
+              "codigo_produto": "5177938",
+              "descricao": "Junta do fundo",
+              "preco": 17.42,
+              "quantidade": 1,
+              "referencia": "47.4482",
+              "separacao": "completa"
+            }
+          ]
+        }
+      },
+      "TAG Heuer": {
+        "SP13945": {
+          "items": [
+            {
+              "codigo_produto": "4826310",
+              "descricao": "HEAD TH CONNECTED STEEL / CERAMIC",
+              "preco": 1777.8,
+              "quantidade": 1,
+              "referencia": "SBG8A10",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP14862": {
+          "items": [
+            {
+              "codigo_produto": "1008099",
+              "descricao": "Aro espeçador da máquina",
+              "preco": 19.68,
+              "quantidade": 1,
+              "referencia": "HE0156",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15028": {
+          "items": [
+            {
+              "codigo_produto": "1015704",
+              "descricao": "Circuito Eletrônico ME0000",
+              "preco": 88.98,
+              "quantidade": 1,
+              "referencia": "ME0000",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007239",
+              "descricao": "Coroa de Aço HC0020",
+              "preco": 189.88,
+              "quantidade": 1,
+              "referencia": "HC0020",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007991",
+              "descricao": "Aro espeçador da máquina",
+              "preco": 44.425,
+              "quantidade": 1,
+              "referencia": "HE0025",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15047": {
+          "items": [
+            {
+              "codigo_produto": "1008144",
+              "descricao": "Aro espeçador da máquina",
+              "preco": 13.99,
+              "quantidade": 1,
+              "referencia": "HE0206",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP15052": {
+          "items": [
+            {
+              "codigo_produto": "1008153",
+              "descricao": "Aro espeçador da máquina",
+              "preco": 14.49833,
+              "quantidade": 1,
+              "referencia": "HE0219",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15121": {
+          "items": [
+            {
+              "codigo_produto": "1007976",
+              "descricao": "Aro espaçador da máquina",
+              "preco": 14.5,
+              "quantidade": 1,
+              "referencia": "HE0000",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15384": {
+          "items": [
+            {
+              "codigo_produto": "1011462",
+              "descricao": "Junta do Vidro HG1000",
+              "preco": 13.78333,
+              "quantidade": 1,
+              "referencia": "HG1000",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007976",
+              "descricao": "Aro espaçador da máquina",
+              "preco": 14.5,
+              "quantidade": 1,
+              "referencia": "HE0000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP15587": {
+          "items": [
+            {
+              "codigo_produto": "1015704",
+              "descricao": "Circuito Eletrônico ME0000",
+              "preco": 88.98,
+              "quantidade": 1,
+              "referencia": "ME0000",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007225",
+              "descricao": "Coroa de Aço HC0005",
+              "preco": 292.62,
+              "quantidade": 1,
+              "referencia": "HC0005",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1003926",
+              "descricao": "Jogo de ponteiros H+M+S",
+              "preco": 217.47,
+              "quantidade": 1,
+              "referencia": "HA0185",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007977",
+              "descricao": "Aro espaçador da máquina",
+              "preco": 14.5,
+              "quantidade": 1,
+              "referencia": "HE0001",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP15825": {
+          "items": [
+            {
+              "codigo_produto": "1013003",
+              "descricao": "Mola clique da luneta",
+              "preco": 23.98,
+              "quantidade": 1,
+              "referencia": "HL2101",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP15899": {
+          "items": [
+            {
+              "codigo_produto": "1013449",
+              "descricao": "Junta do Ponsuir HP2007",
+              "preco": 17.455,
+              "quantidade": 4,
+              "referencia": "HP2007",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007410",
+              "descricao": "Coroa de aço",
+              "preco": 329.8,
+              "quantidade": 1,
+              "referencia": "HC0270",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16084": {
+          "items": [
+            {
+              "codigo_produto": "1007354",
+              "descricao": "Coroa de aço",
+              "preco": 196.77,
+              "quantidade": 1,
+              "referencia": "HC0174/0",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1007630",
+              "descricao": "Tubo da Coroa HC1119",
+              "preco": 28.997,
+              "quantidade": 1,
+              "referencia": "HC1119",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011531",
+              "descricao": "Junta do Vidro HG1094",
+              "preco": 16.8,
+              "quantidade": 1,
+              "referencia": "HG1094",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1011061",
+              "descricao": "Junta do Fundo HF1011",
+              "preco": 20.4975,
+              "quantidade": 1,
+              "referencia": "HF1011",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1013446",
+              "descricao": "Junta do Ponsuir HP2004",
+              "preco": 16.805,
+              "quantidade": 4,
+              "referencia": "HP2004",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16140": {
+          "items": [
+            {
+              "codigo_produto": "1011534",
+              "descricao": "Junta do Vidro HG1098",
+              "preco": 16.82,
+              "quantidade": 1,
+              "referencia": "HG1098",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1008050",
+              "descricao": "Aro espeçador da máquina",
+              "preco": 18.5,
+              "quantidade": 1,
+              "referencia": "HE0098",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16253": {
+          "items": [
+            {
+              "codigo_produto": "1015704",
+              "descricao": "Circuito Eletrônico ME0000",
+              "preco": 88.98,
+              "quantidade": 1,
+              "referencia": "ME0000",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16333": {
+          "items": [
+            {
+              "codigo_produto": "1011635",
+              "descricao": "Junta da Luneta HG1217",
+              "preco": 29.685,
+              "quantidade": 1,
+              "referencia": "HG1217",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "4390709",
+              "descricao": "Luneta de cerâmica microjateado preto HL0C45",
+              "preco": 1350.42,
+              "quantidade": 1,
+              "referencia": "HL0C45",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16717": {
+          "items": [
+            {
+              "codigo_produto": "1007410",
+              "descricao": "Coroa de aço",
+              "preco": 329.8,
+              "quantidade": 1,
+              "referencia": "HC0270",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007668",
+              "descricao": "Tubo da coroa",
+              "preco": 51.58,
+              "quantidade": 1,
+              "referencia": "HC1170",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1013449",
+              "descricao": "Junta do Ponsuir HP2007",
+              "preco": 17.455,
+              "quantidade": 4,
+              "referencia": "HP2007",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16782": {
+          "items": [
+            {
+              "codigo_produto": "1002793",
+              "descricao": "Meio elo de aço",
+              "preco": 45.43,
+              "quantidade": 1,
+              "referencia": "FM0178",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1003171",
+              "descricao": "Pino da Pulseira FM3043",
+              "preco": 19.67667,
+              "quantidade": 1,
+              "referencia": "FM3043",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP16893": {
+          "items": [
+            {
+              "codigo_produto": "1005061",
+              "descricao": "Ponteiro de segundos do cronógrafo",
+              "preco": 84,
+              "quantidade": 1,
+              "referencia": "HA5232",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP16909": {
+          "items": [
+            {
+              "codigo_produto": "448144",
+              "descricao": "Mecanismo",
+              "preco": 342.43,
+              "quantidade": 1,
+              "referencia": "MM0542",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17014": {
+          "items": [
+            {
+              "codigo_produto": "1015705",
+              "descricao": "Circuito Eletrônico ME0002",
+              "preco": 109.76,
+              "quantidade": 1,
+              "referencia": "ME0002",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17153": {
+          "items": [
+            {
+              "codigo_produto": "1015166",
+              "descricao": "Mostrador Azul",
+              "preco": 680.29,
+              "quantidade": 1,
+              "referencia": "HX0N95",
+              "separacao": "completa"
+            },
+            {
+              "codigo_produto": "1016390",
+              "descricao": "Máquina à Base de Troca MM0237",
+              "preco": 1278.13,
+              "quantidade": 1,
+              "referencia": "MM0237",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17206": {
+          "items": [
+            {
+              "codigo_produto": "1011561",
+              "descricao": "Junta do Vidro HG1127",
+              "preco": 29.69,
+              "quantidade": 1,
+              "referencia": "HG1127",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011108",
+              "descricao": "Junta do Fundo HF1078",
+              "preco": 24.71,
+              "quantidade": 1,
+              "referencia": "HF1078",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007701",
+              "descricao": "Tubo da Coroa HC1210",
+              "preco": 34.18,
+              "quantidade": 1,
+              "referencia": "HC1210",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17213": {
+          "items": [
+            {
+              "codigo_produto": "1008031",
+              "descricao": "Suporte da Máquina HE0075",
+              "preco": 13.995,
+              "quantidade": 1,
+              "referencia": "HE0075",
+              "separacao": "completa"
+            }
+          ]
+        },
+        "SP17219": {
+          "items": [
+            {
+              "codigo_produto": "1007342",
+              "descricao": "Coroa de Aço HC0157/0",
+              "preco": 189.88,
+              "quantidade": 1,
+              "referencia": "HC0157/0",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007622",
+              "descricao": "Tubo da Coroa HC1106",
+              "preco": 32.73,
+              "quantidade": 1,
+              "referencia": "HC1106",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1015490",
+              "descricao": "Balanço SW200",
+              "preco": 336,
+              "quantidade": 1,
+              "referencia": "MAS00033",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17804": {
+          "items": [
+            {
+              "codigo_produto": "1011061",
+              "descricao": "Junta do Fundo HF1011",
+              "preco": 20.4975,
+              "quantidade": 1,
+              "referencia": "HF1011",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1013443",
+              "descricao": "Junta do Ponsuir HP2001",
+              "preco": 28.55538,
+              "quantidade": 4,
+              "referencia": "HP2001",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17976": {
+          "items": [
+            {
+              "codigo_produto": "1011489",
+              "descricao": "Junta do Vidro HG1041",
+              "preco": 16.8,
+              "quantidade": 1,
+              "referencia": "HG1041",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007571",
+              "descricao": "Tubo da Coroa HC1041",
+              "preco": 18.16,
+              "quantidade": 1,
+              "referencia": "HC1041",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011066",
+              "descricao": "Junta do Fundo HF1023",
+              "preco": 16.8,
+              "quantidade": 1,
+              "referencia": "HF1023",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP18046": {
+          "items": [
+            {
+              "codigo_produto": "1011588",
+              "descricao": "Junta do Vidro HG1155",
+              "preco": 29.6825,
+              "quantidade": 1,
+              "referencia": "HG1155",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1013447",
+              "descricao": "Junta do Ponsuir HP2005",
+              "preco": 25.1825,
+              "quantidade": 4,
+              "referencia": "HP2005",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1005012",
+              "descricao": "Ponteiro do Segundos do Chrono HA5168",
+              "preco": 72.49,
+              "quantidade": 1,
+              "referencia": "HA5168",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP18076": {
+          "items": [
+            {
+              "codigo_produto": "1007315",
+              "descricao": "Coroa de Aço HC0115",
+              "preco": 189.88,
+              "quantidade": 1,
+              "referencia": "HC0115",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1007620",
+              "descricao": "Tubo da Coroa HC1098",
+              "preco": 15.22,
+              "quantidade": 1,
+              "referencia": "HC1098",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011516",
+              "descricao": "Junta do Vidro HG1078",
+              "preco": 19.96,
+              "quantidade": 1,
+              "referencia": "HG1078",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "1011079",
+              "descricao": "Junta do Fundo HF1040",
+              "preco": 16.365,
+              "quantidade": 1,
+              "referencia": "HF1040",
+              "separacao": "sortida"
+            }
+          ]
+        }
+      },
+      "Tissot": {
+        "SP17062": {
+          "items": [
+            {
+              "codigo_produto": "5037277",
+              "descricao": "Junta do Fundo U373001124",
+              "preco": 23.26,
+              "quantidade": 1,
+              "referencia": "U373001124",
+              "separacao": "sortida"
+            },
+            {
+              "codigo_produto": "5020144",
+              "descricao": "Puls de Couro Preta 19/18mm (refil) PRC200 - T610014562",
+              "preco": 139.56,
+              "quantidade": 1,
+              "referencia": "T610014562",
+              "separacao": "sortida"
+            }
+          ]
+        },
+        "SP17371": {
+          "items": []
+        },
+        "SP17430": {
+          "items": [
+            {
+              "codigo_produto": "5018587",
+              "descricao": "BRACELETE DE COURO CASTANHO",
+              "preco": 86.9019,
+              "quantidade": 1,
+              "referencia": "T600033646",
+              "separacao": "completa"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
