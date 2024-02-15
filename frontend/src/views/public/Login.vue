@@ -6,8 +6,8 @@
       >
         <q-img
           src="../../assets/logo-watchtime-preto.png"
-          height="35px"
-          width="174px"
+          height="50%"
+          width="50%"
           class="q-mr-md"
         />
       </q-card-section>
@@ -105,7 +105,7 @@ async function login() {
 }
 
 .logo-container {
-  background-color: #fab515;
+  background-color: #1976d2;
 }
 
 .remove-underline {

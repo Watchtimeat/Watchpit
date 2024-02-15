@@ -104,43 +104,10 @@ import AuthService from "../services/AuthService";
 
 const router = useRouter();
 const menuList = [
-  { icon: "o_home", label: "Home", link: "/home" },
-  { icon: "o_shop_two", label: "Pedidos de Compra", link: "/purchase_orders", requires: "forniture" },
-  { icon: "o_description", label: "Invoices", link: "/purchase_invoices", requires: "forniture"},
-  { icon: "o_watch", label: "Ordens de Serviço", link: "/services", requires:"os" },
-  { icon: "o_local_shipping", label: "NF de Entrada", link: "/importation" ,requires: "forniture"},
-  { icon: "o_sell", label: "Produtos", link: "/products", requires: "forniture"},
-  {
-    icon: "o_build",
-    label: "Separação de Peças",
-    link: "/parts_conference",
-    requires: "forniture"
-  },
-  {
-    icon: "o_settings",
-    label: "Configurações",
-    children: [
-      {
-        icon: "o_business",
-        label: "Geral",
-        link: "/settings/general",
-        requires: "administrator",
-      },
-      {
-        icon: "o_account_circle",
-        label: "Preferências",
-        link: "/settings/user",
-      },
-      {
-        icon: "o_groups",
-        label: "Usuários",
-        link: "/settings/users",
-        requires: "administrator",
-      },
-    ],
-  },
-  { icon: "video_file", label: "Vídeos", link: "/videos" },
-  { icon: "o_info", label: "Sobre o Cockpit", link: "/info" },
+  { icon: "o_sell", label: "Estoque", link: "/products", requires: "forniture"},
+  { icon: "o_person", label: "Cadastro de Pessoas", link: "/products", requires: "forniture"},
+  { icon: "o_watch", label: "Cadastro de Relógios", link: "/products", requires: "forniture"}
+
 ];
 const leftDrawerOpen = ref();
 const miniState = ref(false);
@@ -174,7 +141,7 @@ async function logout() {
 
 <style lang="scss" scoped>
 .logo-container {
-  background-color: #fab515;
+  background-color: #1976d2;
 }
 
 .logo-wrapper {
@@ -183,7 +150,7 @@ async function logout() {
 }
 
 .menu-link {
-  background: #e6e6f091;
+  background: #ffffff91;
   font-weight: 500;
   width: 98%;
   margin-left: 2%;

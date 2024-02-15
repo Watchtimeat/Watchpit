@@ -18,8 +18,8 @@ app.use(Quasar, {
   lang: langPt,
   config: {
     brand: {
-      primary: "#FAB515",
-      secondary: "#26a69a",
+      primary: "#1976d2",
+      secondary: "#8c897d",
       grey: "#555567",
       dark: "#333333",
       white: "#FFFFFF",
