@@ -18,39 +18,24 @@ const router = createRouter({
       children: [
         { path: "/home", name: "home", component: Home },
         {
-          path: "/purchase_orders",
-          name: "purchaseOrders",
-          component: () => import("./views/private/PurchaseOrders.vue"),
+          path: "/persons",
+          name: "persons",
+          component: () => import("./views/private/wsp/persons.vue"),
         },
         {
-          path: "/purchase_invoices",
-          name: "purchaseInvoices",
-          component: () => import("./views/private/PurchaseInvoices.vue"),
+          path: "/sell",
+          name: "sell",
+          component: () => import("./views/private/wsp/sell.vue"),
         },
         {
           path: "/products",
           name: "products",
-          component: () => import("./views/private/Products.vue"),
+          component: () => import("./views/private/wsp/products.vue"),
         },
         {
-          path: "/parts_conference",
-          name: "parts_conference",
-          component: () => import("./views/private/PartsConference.vue"),
-        },
-        {
-          path: "/purchases",
-          name: "purchases",
-          component: () => import("./views/private/Purchases.vue"),
-        },
-        {
-          path: "/services",
-          name: "services",
-          component: Services,
-        },
-        {
-          path: "/importation",
-          name: "importation",
-          component: () => import("./views/private/Importation.vue"),
+          path: "/finantials",
+          name: "finantials",
+          component: () => import("./views/private/wsp/finantials.vue"),
         },
         {
           path: "/settings/general",
@@ -66,12 +51,6 @@ const router = createRouter({
           path: "/settings/users",
           name: "settings_users",
           component: () => import("./views/private/settings/Users.vue"),
-        },
-        { path: "/info", name: "info", component: Info },
-        {
-          path: "/videos",
-          name: "videos",
-          component: Videos,
         },
       ],
     },

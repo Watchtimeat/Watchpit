@@ -13,7 +13,7 @@
   >
     <template v-slot:top>
       <div class="row full-width q-mb-lg">
-        <div class="title-style">Produtos</div>
+        <div class="title-style">Financiamentos</div>
         <q-space />
         <q-select
           label="Filtrar por marca"

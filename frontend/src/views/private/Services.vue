@@ -142,12 +142,6 @@
     :maximized="true"
     @os="handleOSAberta"
     />
-    <service-estimate
-    v-model:showEstimate="showEstimate"
-    v-model:modelValue="selectedService"
-    persistent
-    @os="handleOrcamento"
-    />
     <service-devolution
     v-model:showDevolution="showDevolution"
     v-model:cabecalho="selectedService"
@@ -248,7 +242,6 @@
   import { ref, onMounted, computed, watch } from "vue";
   import { useQuasar } from "quasar";
   import OrdersServicesService from "../../services/Services";
-  import ServiceEstimate from "./ServiceEstimate.vue";
   import ServiceRequest from "./ServiceRequest.vue";
   import ServiceDevolution from "./ServiceDevolution.vue";
   import ServiceApproval from "./ServiceApproval.vue";

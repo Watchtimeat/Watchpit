@@ -13,7 +13,7 @@
   >
     <template v-slot:top>
       <div class="row full-width q-mb-lg">
-        <div class="title-style">Produtos</div>
+        <div class="title-style">Estoque</div>
         <q-space />
         <q-select
           label="Filtrar por marca"
@@ -47,30 +47,79 @@
           :loading="isLoading"
           color="primary"
           class="wt-border q-mr-md"
-          label="Importar Produtos"
+          label="Nova compra"
           unelevated
-          @click="updateProducts('I')"
-        />
-        <q-btn
-          :loading="isLoadingD"
-          color="teal"
-          class="wt-border q-mr-md"
-          unelevated
-          label="Atualizar Descrições"
-          @click="updateProducts('D')"
-        />
-        <q-btn
-          :loading="isLoadingP"
-          color="green"
-          class="wt-border"
-          unelevated
-          label="Atualizar Preços"
-          @click="updateProducts('P')"
+          @click="openNewWatch()"
         />
       </div>
     </template>
   </app-table>
+
+  <q-dialog v-model="newWatch">
+        <q-card class="my-card">
+          <div class="title-style q-ml-md q-mt-md">Novo cadastro</div>
+  
+          <q-card-section>
+  
+            <div class="no-wrap items-center">
+              
+              <div class="row text-h6 ellipsis">
+                
+                <div class="q-mt-sm q-ml-md col">
+                  <q-select class="q-mt-sm col" label="Tipo" v-model="relogio.tipo" :options="['Novo', 'Usado']"></q-select>
+                  <q-input class="q-mt-sm " v-model="relogio.data_compra" type="date" label="Data da compra"></q-input>
+  <q-select class="q-mt-sm col" label="Fornecedor" v-model="relogio.vendedor" :options="['Mauro Racoski', 'Marcelo Garcia']"></q-select>
+</div>
+
+<div class="row">
+  <q-select class="q-mt-sm q-ml-md col" label="Marca" v-model="relogio.marca" :options="['Omega', 'TAG Heuer']"></q-select>
+  <q-input v-model="relogio.modelo" class="q-mt-sm q-ml-md " label="Modelo" ></q-input>
+  
+  <q-input class="q-mt-sm q-ml-md " v-model="relogio.referencia" label="Referência"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="relogio.serie" label="Série" ></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="relogio.data_garantia" type="date" label="Data da garantia"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="relogio.anos_garantia" label="Anos de Garantia"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="relogio.valor_pago" label="Valor Pago"       
+        mask="#,##"
+        fill-mask="0"
+        reverse-fill-mask
+        input-class="text-right"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="relogio.valor_venda" label="Valor Venda"   mask="###,##"
+        fill-mask="0"
+        reverse-fill-mask
+        input-class="text-right"></q-input>
+  
+  <q-space/>
+  {{ relogio}}
+</div>   
+<div>
+ </div>
+
+   
+  </div>
+              </div>
+            
+  
+          </q-card-section>
+  
+          <q-card-section class="q-pt-none">
+
+          </q-card-section>
+  
+          <q-separator />
+  
+          <q-card-actions align="right">
+            <q-btn v-close-popup flat color="red" round icon="cancel" />
+            <q-btn v-close-popup flat color="primary" label="Cadastrar" />
+            
+          </q-card-actions>
+        </q-card>
+      
+      </q-dialog>
+     
 </template>
+
+
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
@@ -100,6 +149,8 @@ const brandsFiltered = ref([]);
 const isLoadingP = ref(false);
 const isLoadingD = ref(false);
 const isLoading = ref(false);
+const newWatch = ref(false)
+const relogio = ref({})
 QSpinnerGears;
 
 onMounted(() => {
@@ -166,7 +217,10 @@ const form = [
 onMounted(() => {
   tableRef.value.requestServerInteraction();
 });
+function openNewWatch(){
+  newWatch.value=true;
 
+}
 async function loadBrands() {
   const response = await ProductsService.getProducts({
     _select: "brand",

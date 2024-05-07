@@ -104,9 +104,10 @@ import AuthService from "../services/AuthService";
 
 const router = useRouter();
 const menuList = [
-  { icon: "o_sell", label: "Estoque", link: "/products", requires: "forniture"},
-  { icon: "o_person", label: "Cadastro de Pessoas", link: "/products", requires: "forniture"},
-  { icon: "o_watch", label: "Cadastro de Relógios", link: "/products", requires: "forniture"}
+  { icon: "o_work", label: "Estoque", link: "/products", requires: "forniture"},
+  { icon: "o_person", label: "Pessoas", link: "/persons", requires: "forniture"},
+  { icon: "o_sell", label: "Vendas", link: "/sell", requires: "forniture"},
+  { icon: "o_money", label: "Financiamentos", link: "/finantials", requires: "forniture"}
 
 ];
 const leftDrawerOpen = ref();

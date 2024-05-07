@@ -13,7 +13,7 @@
   >
     <template v-slot:top>
       <div class="row full-width q-mb-lg">
-        <div class="title-style">Produtos</div>
+        <div class="title-style">Pessoas</div>
         <q-space />
         <q-select
           label="Filtrar por marca"
@@ -47,35 +47,82 @@
           :loading="isLoading"
           color="primary"
           class="wt-border q-mr-md"
-          label="Importar Produtos"
+          label="Cadastrar"
           unelevated
-          @click="updateProducts('I')"
-        />
-        <q-btn
-          :loading="isLoadingD"
-          color="teal"
-          class="wt-border q-mr-md"
-          unelevated
-          label="Atualizar Descrições"
-          @click="updateProducts('D')"
-        />
-        <q-btn
-          :loading="isLoadingP"
-          color="green"
-          class="wt-border"
-          unelevated
-          label="Atualizar Preços"
-          @click="updateProducts('P')"
+          @click="openNewPerson()"
         />
       </div>
     </template>
   </app-table>
+
+  <q-dialog v-model="newPerson">
+        <q-card class="my-card">
+          <div class="title-style q-ml-md q-mt-md">Novo cadastro</div>
+  
+          <q-card-section>
+  
+            <div class="no-wrap items-center">
+              <q-select class="q-mt-sm q-ml-md col" label="Tipo" v-model="newCustomer.tipo" :options="['Cliente', 'Fornecedor']"></q-select>
+              <div class="row text-h6 ellipsis">
+                
+                <div class="q-mt-sm q-ml-md col">
+  <q-input v-model="newCustomer.nome" label="Nome" ></q-input>
+</div>
+
+<div class="row">
+  
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.cpf" label="CPF" mask="###.###.###-##" ></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.rg" label="RG" mask="##.###.###-#"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.celular" label="Celular" mask="(##) #####-####" ></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.email" label="E-mail"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.nascimento" type="date" label="Data de Nascimento"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.profissao" label="Profissão"></q-input>
+  <q-space/>
+  
+   
+</div>   
+<div>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.cep" label="CEP" mask="#####-###"></q-input>
+ </div>
+
+  <q-input class="q-mt-sm q-ml-md col-12 " v-model="newCustomer.endereco" label="Endereço"></q-input>
+  </div>
+  <div class="row">
+    
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.numero" label="Número" mask="####" ></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.complemento" label="Complemento"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.bairro" label="Bairro"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.cidade" label="Cidade"></q-input>
+  <q-input class="q-mt-sm q-ml-md " v-model="newCustomer.estado" label="Estado"></q-input>
+</div>
+              </div>
+            
+  
+          </q-card-section>
+  
+          <q-card-section class="q-pt-none">
+
+          </q-card-section>
+  
+          <q-separator />
+  
+          <q-card-actions align="right">
+            <q-btn v-close-popup flat color="red" round icon="cancel" />
+            <q-btn v-close-popup flat color="primary" label="Cadastrar" />
+            
+          </q-card-actions>
+          {{ newCustomer }}
+        </q-card>
+     
+      </q-dialog>
+
 </template>
 
 <script setup>
 import { ref, onMounted, computed } from "vue";
 import { useQuasar } from "quasar";
 import ProductsService from "../../../services/ProductsService";
+import newperson from "../../../wspfunctions/newperson.vue";
 import AppTable from "../../../components/app-table.vue";
 import axios from "axios";
 import { QSpinnerGears } from "quasar";
@@ -90,6 +137,7 @@ const search = ref({
   text: "",
   brand: null,
 });
+const newPerson = ref(false)
 const tableRef = ref();
 const products = ref([]);
 const product = ref({});
@@ -101,6 +149,7 @@ const isLoadingP = ref(false);
 const isLoadingD = ref(false);
 const isLoading = ref(false);
 QSpinnerGears;
+const newCustomer = ref({})
 
 onMounted(() => {
   loadBrands();
@@ -226,6 +275,11 @@ async function loadProducts(props) {
     };
   } catch (error) {}
   loading.value = false;
+}
+
+function openNewPerson(){
+  newPerson.value=true;
+
 }
 
 async function updateProducts(type) {
